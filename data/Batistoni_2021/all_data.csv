@@ -1,0 +1,1352 @@
+id,group_id,role,chosen,treat,cond,q1,q2,q3,q4,q5,q6,q7,q8,full_comp,invest_comp,tp_invest,tp_invest_perc,send,send_perc,return,return_perc,payoff,comments
+z535c6rq2rqhix3x,1,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqa82d3jc9,271,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,1,c,c,0,1,0.15,33.33,NA,NA,0.5,50,0,
+z535c6rqah0qoax0,2,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0.22,
+z535c6rq35ul8qb5,3,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0,0,0,
+z535c6rqn6ckdh2z,4,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.5,50,0,
+z535c6rqqcf3gafi,5,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqxw9c3dud,1,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,1,c,1,0,1,0.1,22.22,NA,NA,0.5,50,0.15,
+z535c6rq1nxsnx6f,271,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.6,
+z535c6rqj9du3uh5,2,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,no comments
+z535c6rqk5b6bc02,3,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.4,40,0.31,
+z535c6rqw9e40za4,4,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.6,60,0,"Everything worked great, thanks!"
+z535c6rqfk16pvy0,5,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0,0,0,No comments thanks
+z535c6rqm9r86xlr,270,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqphcji39w,6,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rq6xpqjka3,7,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,1,c,c,0,1,0.02,4.44,NA,NA,0,0,0,$
+z535c6rq7xicg618,6,TP,TRUE,Random / Anonymous,H,c,3,2,c,2,2,c,1,0,0,0.05,11.11,NA,NA,0.1,10,0,
+z535c6rq06fzz9he,405,TP,TRUE,Random / Knowledge,P,c,c,1,c,c,1,c,c,0,0,0,0,NA,NA,0.5,50,0,NA
+z535c6rql0v22a6o,7,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.05,11.11,NA,NA,0.2,20,0.72,
+z535c6rqrndx66rv,273,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rq72dmmss8,274,TP,FALSE,Choice / Knowledge,H,c,c,1,c,c,c,c,c,0,0,0.05,11.11,NA,NA,0.1,10,0,
+z535c6rqy5ox7exh,270,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.22,
+z535c6rq0ye1oovb,276,TP,TRUE,Random / Anonymous,H,c,c,c,3,c,c,c,c,0,0,0.25,55.56,NA,NA,0.5,50,0.45,interesting
+z535c6rqaqtc78fi,273,TP,TRUE,Choice / Knowledge,P,c,3,c,c,c,c,c,c,0,0,0.35,77.78,NA,NA,0.5,50,0.15,
+z535c6rqpj1xlgoq,274,TP,TRUE,Choice / Knowledge,H,c,1,c,2,c,c,2,c,0,0,0.2,44.44,NA,NA,0.5,50,0.45,
+z535c6rq9g1s97z9,8,TP,TRUE,Random / Anonymous,P,c,1,c,c,c,1,c,c,0,0,0,0,NA,NA,0.5,50,0.45,
+z535c6rq3j4a3xzw,276,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.2,20,0,
+z535c6rq3xs842h3,405,TP,FALSE,Random / Knowledge,P,c,c,c,1,c,c,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqbw93vnil,9,TP,TRUE,Random / Knowledge,H,c,3,c,c,c,c,c,c,0,0,0.25,55.56,NA,NA,0,0,0.9,
+z535c6rqr0wupb1i,277,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.3,
+z535c6rqxdabd5gs,10,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0,0,0.15,
+z535c6rqnt4ovzub,8,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqzf3t40ap,9,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,3,0,1,0,0,NA,NA,0.5,50,0,Good luck with your research.
+z535c6rqz8tudy6e,277,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rqryv2wj94,10,TP,FALSE,Choice / Knowledge,H,c,c,1,c,c,c,c,c,0,0,0.15,33.33,NA,NA,0.4,40,0,
+z535c6rqpd09tfcz,280,TP,FALSE,Random / Anonymous,H,c,3,c,c,c,1,3,c,0,0,0.45,100,NA,NA,0.5,50,0,
+z535c6rqwyrl772a,406,TP,TRUE,Random / Knowledge,P,c,c,c,c,1,c,2,c,0,0,0.25,55.56,NA,NA,0.5,50,0.45,
+z535c6rqiuxfxftv,12,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rqul2kd3vs,13,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.45,"Thanks for the opportunity, and for the bonus!"
+z535c6rqxcv2nh1h,278,TP,FALSE,Choice / Knowledge,H,c,1,c,c,c,2,c,c,0,0,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rq38cxal2b,275,TP,TRUE,Random / Anonymous,P,c,3,c,c,c,c,c,1,0,0,0,0,NA,NA,0,0,0.9,
+z535c6rquzfben8k,280,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0.45,
+z535c6rqufvvi6yk,406,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqo33h83uw,12,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,1,0,1,0.2,44.44,NA,NA,0.5,50,0.45,
+z535c6rqe5fl2m9d,278,TP,TRUE,Choice / Knowledge,H,c,1,1,c,1,1,c,c,0,0,0.45,100,NA,NA,0.5,50,0.45,n/a thanks!
+z535c6rqkpe0pndl,275,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rq7nkh89v4,14,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.2,20,0.36,
+z535c6rqk3xf7ssj,11,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.21,46.67,NA,NA,0.5,50,0,This was very interesting to think about. Thanks for this HIT.
+z535c6rqzcx18b3u,16,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0.45,
+z535c6rqhee7ab4y,13,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.01,2.22,NA,NA,0,0,0,"I'm a horrible person! Its only a couple cents, I feel bad. But this way I can guarentee Ill make most pennies!"
+z535c6rqenar1xn1,18,TP,FALSE,Choice / Knowledge,H,c,3,1,c,c,c,3,c,0,0,0.05,11.11,NA,NA,0.5,50,0,interesting
+z535c6rqzl05knuy,279,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.5,50,0,
+z535c6rq8iokwkb3,14,TP,FALSE,Random / Anonymous,H,c,c,c,3,c,c,c,c,0,0,0.3,66.67,NA,NA,0.6,60,0,This was fun! Thank you
+z535c6rqatpnspp4,11,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,1,c,c,0,1,0.05,11.11,NA,NA,0,0,0,
+z535c6rqeuqsvf4z,17,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0,0,0,None
+z535c6rqfrfoi5sb,18,TP,TRUE,Choice / Knowledge,H,c,c,c,2,3,2,c,c,0,0,0.2,44.44,NA,NA,0.5,50,0.45,
+z535c6rqs5jd2qty,279,TP,FALSE,Random / Anonymous,P,c,c,c,c,2,c,c,c,0,0,0.25,55.56,NA,NA,0.7,70,0,
+z535c6rqi9eiqpy0,19,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.4,40,0,
+z535c6rqkomwsxkg,15,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,1,0,1,0,0,NA,NA,0,0,0,
+z535c6rqbkwixk1t,16,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqtajr59wq,17,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.4,40,0,
+z535c6rqe415j7kg,22,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqh4718sdv,387,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.15,
+z535c6rqxvxj2odt,19,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.3,
+z535c6rqe0fdh0qw,15,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,Thank you.
+z535c6rqpc6ol110,417,TP,TRUE,Choice / Knowledge,P,c,3,c,c,c,1,c,c,0,0,0.25,55.56,NA,NA,0.5,50,0.45,"good study, thank you."
+z535c6rq4kngxy0r,22,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0,0,0.9,"None, thank you.  "
+z535c6rqztu5o9ya,24,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqap8p3a20,21,TP,FALSE,Random / Knowledge,H,c,1,c,c,c,c,c,c,0,0,0.4,88.89,NA,NA,0.5,50,0,
+z535c6rqyrd3b2it,417,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,2,c,0,1,0,0,NA,NA,1,100,0,
+z535c6rq6vxx17r9,26,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,"Strange HIT, thank you."
+z535c6rqoc1e9io8,387,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,n/a
+z535c6rq54cjvsob,24,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,1,c,3,0,1,0,0,NA,NA,0.1,10,0.81,
+z535c6rquz7myrjw,21,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,1,0,1,0.1,22.22,NA,NA,0.5,50,0.45,
+z535c6rqaxiezckw,26,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.1,10,0.81,no comments
+z535c6rqruh7t8t4,28,TP,FALSE,Random / Anonymous,H,c,3,c,c,c,c,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqoempcw9y,272,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,3,0,1,0.2,44.44,NA,NA,0.4,40,0,thanks
+z535c6rqvnkehq54,418,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.15,33.33,NA,NA,0.5,50,0,
+z535c6rq82ijq8yc,283,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rq0m2srwjz,23,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.09,
+z535c6rqim9fmqkp,28,TP,TRUE,Random / Anonymous,H,c,c,c,c,2,c,2,c,0,0,0.1,22.22,NA,NA,0.1,10,0.4,Thank you for the survey!
+z535c6rq8ho404jt,20,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqtc7ljp3j,418,TP,TRUE,Choice / Knowledge,P,c,c,c,1,c,1,c,c,0,0,0.2,44.44,NA,NA,0.4,40,0.54,
+z535c6rqww9ks7hi,283,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.4,40,0.54,
+z535c6rqb27xvm8w,23,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,1,0,1,0,0,NA,NA,0,0,0,"I misunderstood thinking that Player 4 was a Player 3 from Game A, but I understand my mistake now."
+z535c6rqid6o6cy6,32,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,none
+z535c6rq5oeo2tdk,20,TP,TRUE,Random / Knowledge,P,c,c,c,1,c,c,c,c,0,0,0.25,55.56,NA,NA,0.5,50,0.45,
+z535c6rq89mon5rm,272,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,1,c,c,0,1,0,0,NA,NA,0,0,0.9,
+z535c6rqitd3xgl3,30,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,2,c,c,0,1,0.25,55.56,NA,NA,0.3,30,0.63,
+z535c6rq7bg970z9,426,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0.15,
+z535c6rqltwiurby,27,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,No comment.
+z535c6rqhvnpw0rq,32,TP,FALSE,Random / Anonymous,H,c,c,2,c,c,2,c,c,0,0,0.25,55.56,NA,NA,0.1,10,0,interesting study
+z535c6rqywphdh0f,409,TP,FALSE,Random / Knowledge,H,c,3,c,c,c,c,c,c,0,0,0,0,NA,NA,0,0,0,Interesting survey--
+z535c6rqfjwgg3xb,30,TP,FALSE,Choice / Knowledge,P,c,3,c,c,c,c,3,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqspv9wzci,27,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,2,c,c,0,1,0.05,11.11,NA,NA,0,0,0.9,this was fun!
+z535c6rqjjqvbc9o,396,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0.45,
+z535c6rqxcgq7csh,25,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqkktq0qee,409,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.2,20,0.36,
+z535c6rqz190qzt1,34,TP,TRUE,Choice / Knowledge,P,c,3,c,2,c,1,3,c,0,0,0,0,NA,NA,0.5,50,0.22,Thank you
+z535c6rqlznah672,426,TP,FALSE,Choice / Knowledge,H,c,3,2,2,c,2,c,1,0,0,0.25,55.56,NA,NA,0.4,40,0,
+z535c6rqsmowb1uf,396,TP,FALSE,Random / Anonymous,H,c,c,c,1,c,1,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqkodbmynr,25,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.2,20,0.72,none
+z535c6rqfv2v3fhh,282,TP,FALSE,Random / Knowledge,H,c,c,1,c,c,c,c,c,0,0,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rq5ecu4wt2,427,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.5,50,0.22,
+z535c6rqcz6hi75g,31,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,1,100,0,
+z535c6rqfth0091e,35,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rq8nccxpt1,34,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqpsd6yri0,427,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.4,40,0,
+z535c6rqe7xlmgzz,31,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.3,30,0,
+z535c6rqz5d7adia,35,TP,TRUE,Random / Anonymous,H,c,3,c,c,c,c,c,c,0,0,0.05,11.11,NA,NA,0.3,30,0,
+z535c6rq6hia3jfw,29,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.9,
+z535c6rqhmnn5q3r,282,TP,TRUE,Random / Knowledge,H,3,3,1,c,c,c,c,3,0,0,0.05,11.11,NA,NA,0.1,10,0.4,
+z535c6rqswdzoucx,419,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,1,c,1,0,1,0.2,44.44,NA,NA,0.5,50,0.45,thanks
+z535c6rqd5w55r1e,38,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,1,c,c,0,1,0.23,51.11,NA,NA,0.5,50,0,
+z535c6rqvu6wh6oq,394,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.35,77.78,NA,NA,0.3,30,0,
+z535c6rq0jcezsbr,40,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,Always interesting hits! 
+z535c6rqqhgunjtw,29,TP,FALSE,Random / Knowledge,P,c,3,c,1,c,2,c,c,0,0,0,0,NA,NA,0.5,50,0,NONE
+z535c6rq6xx162p1,285,TP,FALSE,Random / Knowledge,H,c,c,c,1,c,c,c,c,0,0,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqzisf3kii,419,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,1,c,c,0,1,0,0,NA,NA,0.5,50,0,
+z535c6rqxjwp0p8y,38,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,2,c,c,0,1,0.25,55.56,NA,NA,0.4,40,0.54,
+z535c6rqctc69h0c,394,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.4,40,0,
+z535c6rqsdgzs3kv,40,TP,TRUE,Random / Anonymous,H,c,c,c,c,3,c,2,c,0,0,0,0,NA,NA,0.3,30,0.21,
+z535c6rqhm5layun,33,TP,TRUE,Random / Knowledge,P,c,1,2,c,c,c,c,3,0,0,0,0,NA,NA,0.1,10,0.81,
+z535c6rqn8fznucv,285,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,1,c,c,0,1,0.4,88.89,NA,NA,0,0,0.9,
+z535c6rqciwa109i,37,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqgipsipvu,291,TP,TRUE,Choice / Knowledge,H,c,1,c,c,c,2,2,1,0,0,0.45,100,NA,NA,0.5,50,0.22,"no comments, thank you"
+z535c6rqdhwv7hvj,395,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,1,0,1,0,0,NA,NA,0.3,30,0,none now
+z535c6rqvdkjyv72,43,TP,TRUE,Random / Anonymous,H,c,3,c,c,c,2,c,c,0,0,0.25,55.56,NA,NA,0.5,50,0,"this was fun and very interesting, thanks..."
+z535c6rqldbhvyl4,37,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqnts3ygbj,291,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,none
+z535c6rqi9dbuknp,395,TP,TRUE,Random / Anonymous,P,2,c,c,c,c,c,c,1,0,0,0.25,55.56,NA,NA,0.5,50,0.45,
+z535c6rq62re8bv9,43,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqzms2eteo,33,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.05,11.11,NA,NA,0.5,50,0,n/a
+z535c6rqpyziy0oz,36,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,1,2,c,0,1,0.25,55.56,NA,NA,0,0,0,
+z535c6rqa9ddk8gg,42,TP,FALSE,Choice / Knowledge,P,c,c,c,2,1,c,c,1,0,0,0.1,22.22,NA,NA,0.4,40,0,
+z535c6rql7g7612t,47,TP,TRUE,Choice / Knowledge,H,c,c,c,2,1,c,c,c,0,0,0.2,44.44,NA,NA,0.4,40,0.18,
+z535c6rqsqc2t6na,39,TP,FALSE,Random / Anonymous,P,c,c,c,3,2,c,3,1,0,0,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rq2ghnwhp4,49,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,1,c,c,0,1,0,0,NA,NA,0,0,0,thanks
+z535c6rqoc3xvld9,281,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,3,c,0,1,0.45,100,NA,NA,0.6,60,0,
+z535c6rqrsoerxyj,36,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,3,c,0,1,0.05,11.11,NA,NA,0.5,50,0.45,
+z535c6rqdxjaesu9,47,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqfd9oo0g4,39,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.48,
+z535c6rqqxg1y2m2,49,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,Thanks for being clear about the ;lack of deception!
+z535c6rqb9phr0n2,281,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqs45uqgnh,41,TP,FALSE,Random / Knowledge,H,c,1,c,1,c,1,2,c,0,0,0.45,100,NA,NA,0.7,70,0,"strange game, very complicated"
+z535c6rqce2ld7b2,42,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.3,66.67,NA,NA,0.5,50,0.45,
+z535c6rqbv7b23lw,50,TP,TRUE,Choice / Knowledge,H,c,c,2,c,c,c,c,c,0,0,0.35,77.78,NA,NA,0.5,50,0,
+z535c6rqknefvs9h,51,TP,FALSE,Random / Anonymous,H,c,c,c,1,c,c,c,c,0,0,0.25,55.56,NA,NA,0,0,0,no comments thanks for asking though ;)
+z535c6rqi7h743cy,284,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,1,c,c,0,1,0,0,NA,NA,0,0,0,Thanks!
+z535c6rq9zwpsha7,41,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,2,c,c,0,1,0.15,33.33,NA,NA,0.2,20,0.72,no comments
+z535c6rqhrljbv7n,51,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,1,c,c,0,1,0.25,55.56,NA,NA,0.5,50,0.3,
+z535c6rq74brfsiq,284,TP,TRUE,Random / Knowledge,P,c,c,c,3,1,c,2,c,0,0,0.45,100,NA,NA,0.5,50,0.45,"Pretty fun, thanks"
+z535c6rqvj5o003k,45,TP,FALSE,Random / Knowledge,H,2,1,c,1,c,c,3,3,0,0,0.2,44.44,NA,NA,0.7,70,0,Very Interesting.
+z535c6rquwi7jf7s,46,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rq9x1su3v2,50,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,3,0,1,0,0,NA,NA,0,0,0,
+z535c6rqmwiawab4,292,TP,TRUE,Random / Anonymous,P,c,c,c,c,2,2,c,c,0,0,0.22,48.89,NA,NA,0,0,0,
+z535c6rq583uogci,55,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.12,26.67,NA,NA,0.3,30,0,
+z535c6rql28hy5on,287,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,NONE
+z535c6rqkj9q7dis,45,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,None
+z535c6rqb53fyqlt,295,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,2,c,c,0,1,0.1,22.22,NA,NA,0.3,30,0,
+z535c6rquxgywz1t,55,TP,TRUE,Random / Anonymous,H,c,1,c,c,c,c,c,3,0,0,0,0,NA,NA,0,0,0,
+z535c6rqjzabge79,288,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.07,15.56,NA,NA,0,0,0,
+z535c6rqc228dt3y,46,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.3,66.67,NA,NA,0.5,50,0.45,
+z535c6rqvnr5p884,295,TP,TRUE,Choice / Knowledge,H,c,3,c,c,c,c,c,c,0,0,0.25,55.56,NA,NA,0.5,50,0.45,
+z535c6rqa5gtk5g0,292,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.3,30,0,
+z535c6rq7fq2ut61,286,TP,FALSE,Random / Anonymous,H,c,3,c,c,c,c,3,c,0,0,0,0,NA,NA,0.5,50,0,
+z535c6rq210pffv1,287,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.4,40,0.54,None. Thank You
+z535c6rq8deqnvxy,288,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0.3,it was fun
+z535c6rqp75q8bgr,439,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.4,40,0,
+z535c6rq9qip9jfn,57,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.05,11.11,NA,NA,0.2,20,0,
+z535c6rqe4q3pxrl,48,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.9,
+z535c6rqdylxg4lv,286,TP,TRUE,Random / Anonymous,H,c,c,c,c,2,c,c,c,0,0,0,0,NA,NA,0,0,0.9,
+z535c6rqoyaiezgq,44,TP,TRUE,Random / Knowledge,P,c,3,c,c,c,c,c,c,0,0,0.05,11.11,NA,NA,0.6,60,0,
+z535c6rqw5ohn35o,410,TP,FALSE,Random / Knowledge,H,c,c,c,1,c,c,2,c,0,0,0.05,11.11,NA,NA,0,0,0,
+z535c6rq4v80wx3d,439,TP,TRUE,Choice / Knowledge,P,c,c,c,2,c,2,c,c,0,0,0,0,NA,NA,0.3,30,0.53,
+z535c6rqu0gmf000,57,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.3,30,0.63,
+z535c6rqr2rai0l4,62,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqob3yfodu,44,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,1,0,1,0,0,NA,NA,0.5,50,0,Thanks!
+z535c6rqgk4hqb04,410,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0.21,
+z535c6rqlna61lsq,53,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.05,11.11,NA,NA,0,0,0,
+z535c6rq6xy2agwh,48,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.6,60,0,
+z535c6rq87bmyq8q,62,TP,TRUE,Random / Anonymous,H,c,c,c,1,c,c,c,c,0,0,0,0,NA,NA,0,0,0.9,
+z535c6rqj9jd7gvm,290,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.4,88.89,NA,NA,0.5,50,0,Thank You none at this time
+z535c6rqqlxymi41,294,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.15,33.33,NA,NA,0.5,50,0.45,
+z535c6rqv0rs07hr,53,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqh5391e8w,296,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,1,c,c,0,1,0,0,NA,NA,0,0,0.3,
+z535c6rqurgx99xi,65,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,3,c,0,1,0,0,NA,NA,0.5,50,0.45,
+z535c6rqk5xrltqs,290,TP,TRUE,Random / Knowledge,P,c,c,c,c,1,c,c,c,0,0,0,0,NA,NA,0,0,0.42,
+z535c6rqq9xm3byg,56,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqb5kcox1o,60,TP,TRUE,Choice / Knowledge,H,c,c,c,2,c,2,c,c,0,0,0.1,22.22,NA,NA,0.7,70,0.14,
+z535c6rq111g0mj5,296,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,thanks for the opportunity
+z535c6rqdatysra0,294,TP,FALSE,Random / Knowledge,H,c,c,c,1,c,c,c,c,0,0,0,0,NA,NA,0.5,50,0,
+z535c6rqli90zgvn,56,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.1,10,0,
+z535c6rqlouwd788,60,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.05,11.11,NA,NA,0,0,0,
+z535c6rqjcac6dvy,54,TP,TRUE,Random / Anonymous,P,c,1,c,c,3,c,2,3,0,0,0.1,22.22,NA,NA,0.5,50,0.18,Difficult to follow.
+z535c6rqhbabamym,65,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rq2wnzeuab,52,TP,TRUE,Random / Knowledge,P,c,1,c,c,c,2,c,c,0,0,0.05,11.11,NA,NA,0.5,50,0.45,
+z535c6rq4o62b6b6,416,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.5,50,0.15,Survey went smoothly.
+z535c6rqwkga6pou,59,TP,TRUE,Choice / Knowledge,P,c,3,c,c,c,c,c,c,0,0,0,0,NA,NA,0.5,50,0,
+z535c6rqy71ns846,54,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rq73lfvoq7,52,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqqk75z6ig,416,TP,FALSE,Random / Knowledge,H,c,c,1,c,c,c,c,c,0,0,0.1,22.22,NA,NA,0.5,50,0,
+z535c6rqwjtt3i01,59,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.5,50,0,
+z535c6rq5k36x0jt,69,TP,TRUE,Random / Anonymous,H,c,c,1,c,c,c,c,c,0,0,0.2,44.44,NA,NA,0.5,50,0.45,"This is definitely a thought provoking ""choice"" study."
+z535c6rq4z5cuw77,407,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rq70ikpfae,420,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.3,30,0,
+z535c6rqaalwrppi,299,TP,TRUE,Choice / Knowledge,H,c,1,c,c,1,2,c,c,0,0,0.2,44.44,NA,NA,0.3,30,0.42,
+z535c6rqf8kmg1jx,69,TP,FALSE,Random / Anonymous,H,c,c,c,c,2,c,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqbm2s6a02,63,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0.45,
+z535c6rq61pxokah,420,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,2,c,c,0,1,0.25,55.56,NA,NA,0.5,50,0.15,Thank you.
+z535c6rqxgattp3g,300,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,1,c,c,0,1,0,0,NA,NA,0.3,30,0,
+z535c6rqyssjdvs7,289,TP,TRUE,Random / Anonymous,H,c,c,c,c,2,1,3,c,0,0,0.01,2.22,NA,NA,0.2,20,0.72,
+z535c6rqxlpp9h5y,407,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.4,88.89,NA,NA,0.5,50,0.45,
+z535c6rqwae4zdfr,63,TP,FALSE,Random / Knowledge,H,c,c,2,c,c,2,2,c,0,0,0.1,22.22,NA,NA,0.3,30,0,
+z535c6rq74vlipoo,298,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rq8vudb22t,299,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,n
+z535c6rqfedg45av,300,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,1,0,1,0,0,NA,NA,0,0,0.45,n
+z535c6rqz6wbbuh3,289,TP,FALSE,Random / Anonymous,H,c,3,c,c,c,c,c,c,0,0,0.25,55.56,NA,NA,0.3,30,0,n/a
+z535c6rqzoyr6h6i,58,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqhfa7acz2,66,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.4,40,0,
+z535c6rqv0okn2i4,298,TP,TRUE,Choice / Knowledge,P,2,1,2,2,3,2,2,c,0,0,0.05,11.11,NA,NA,0.3,30,0.63,
+z535c6rq53quscmz,67,TP,TRUE,Choice / Knowledge,H,c,3,c,c,c,c,3,c,0,0,0.25,55.56,NA,NA,0.8,80,0.18,
+z535c6rqbtnnrdnm,61,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0.37,interesting and fun experience and i thank you.
+z535c6rqg4hdwfm8,80,TP,TRUE,Random / Anonymous,H,c,3,c,c,c,c,c,c,0,0,0.25,55.56,NA,NA,0.5,50,0.22,thanks for letting me play and participate
+z535c6rq3ytky1wu,66,TP,TRUE,Random / Knowledge,H,c,c,c,1,c,c,c,c,0,0,0.45,100,NA,NA,0.6,60,0.36,
+z535c6rqntl2h22a,72,TP,TRUE,Choice / Knowledge,P,c,3,2,c,c,1,c,1,0,0,0.1,22.22,NA,NA,0.5,50,0.45,
+z535c6rqtlwt7gxh,67,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rqxk5sknqf,61,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqozvbdj8d,80,TP,FALSE,Random / Anonymous,H,c,1,2,c,2,c,3,c,0,0,0.05,11.11,NA,NA,0.1,10,0,
+z535c6rq43rsuyq5,58,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.4,40,0,
+z535c6rqhsaiq4qd,72,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqcvv74kl7,73,TP,TRUE,Choice / Knowledge,H,c,3,c,c,c,c,3,c,0,0,0.25,55.56,NA,NA,0.5,50,0.3,
+z535c6rqvucstq2i,64,TP,FALSE,Random / Anonymous,P,c,1,c,c,c,c,c,1,0,0,0,0,NA,NA,0.5,50,0,
+z535c6rq5brz5woo,85,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqa2pd0bqm,403,TP,FALSE,Random / Knowledge,P,c,3,c,c,1,c,c,c,0,0,0,0,NA,NA,0.5,50,0,
+z535c6rqojj3kbx7,71,TP,FALSE,Random / Knowledge,H,c,3,2,c,c,2,c,c,0,0,0.45,100,NA,NA,0,0,0,
+z535c6rqkkflkqxu,77,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,2,c,c,0,1,0.1,22.22,NA,NA,0.3,30,0,
+z535c6rqa4cwpa5x,73,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rq4tsle8bm,64,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.4,40,0.18,None
+z535c6rqke549syi,85,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.2,20,0.36,
+z535c6rqqimj04nd,403,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.22,
+z535c6rqa1ea1x1p,78,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0.22,Thanks
+z535c6rqdn3dcuhh,68,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.3,
+z535c6rqx5vpjr1f,71,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,1,c,c,0,1,0.3,66.67,NA,NA,1,100,0,
+z535c6rqz9iswxyj,78,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0,0,0,thanks
+z535c6rqi1ejon33,68,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,2,c,c,0,1,0,0,NA,NA,0,0,0,
+z535c6rq33cpc7br,89,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqqvh2446u,404,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,Thank you for a very interesting study.
+z535c6rqmwrtmld5,76,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqeyat8htn,77,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0,0,0.75,
+z535c6rq208z93fi,83,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.35,77.78,NA,NA,0.3,30,0.63,
+z535c6rqs8gml9rj,74,TP,FALSE,Random / Anonymous,P,c,3,c,c,c,c,c,c,0,0,0.05,11.11,NA,NA,0,0,0,
+z535c6rqi4z0ez0y,89,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.5,50,0,
+z535c6rqq8z5lrl1,404,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0.45,
+z535c6rqbxxj2xn0,83,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.02,4.44,NA,NA,0,0,0,
+z535c6rqf1au1wip,74,TP,TRUE,Random / Anonymous,P,c,c,2,c,2,2,c,c,0,0,0.05,11.11,NA,NA,0.5,50,0,
+z535c6rqrgc7dxml,70,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.01,none
+z535c6rq5qmlxi23,76,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.3,66.67,NA,NA,0,0,0,
+z535c6rqq5awyqy2,431,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.5,50,0.15,
+z535c6rqwne019cm,79,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.2,20,0.48,
+z535c6rqz4aaqs65,70,TP,FALSE,Random / Knowledge,P,c,3,c,1,c,2,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rq2o83993p,301,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.5,50,0.45,
+z535c6rqg6dayygw,431,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqnkmvl0q5,79,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,1,0,1,0,0,NA,NA,0,0,0,
+z535c6rqs39pyz33,94,TP,TRUE,Random / Anonymous,H,c,3,c,c,c,2,c,c,0,0,0.2,44.44,NA,NA,0.7,70,0.01,
+z535c6rq1ilclq0j,75,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,none
+z535c6rq6afjrlml,301,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,2,2,3,0,1,0.1,22.22,NA,NA,1,100,0,
+z535c6rqmoowf6jp,82,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.9,
+z535c6rqprkt8ne0,92,TP,FALSE,Choice / Knowledge,H,c,3,1,1,c,c,3,3,0,0,0.25,55.56,NA,NA,0.3,30,0,
+z535c6rqpgmwxqvk,75,TP,TRUE,Random / Knowledge,P,c,3,c,c,c,c,c,c,0,0,0.2,44.44,NA,NA,0.1,10,0.81,
+z535c6rqxk9p5o1c,87,TP,FALSE,Random / Knowledge,H,c,1,c,c,c,1,2,c,0,0,0.25,55.56,NA,NA,0.2,20,0,
+z535c6rqcp1di7x2,82,TP,FALSE,Choice / Knowledge,P,c,c,c,2,1,c,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqmgp85i58,92,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,1,c,c,0,1,0.4,88.89,NA,NA,0.2,20,0.02,
+z535c6rqatjswpfh,94,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,1,0,1,0,0,NA,NA,0,0,0,
+z535c6rqobc6qri5,87,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.1,10,0.81,
+z535c6rqwwgzenhm,88,TP,TRUE,Choice / Knowledge,P,c,c,c,c,3,1,c,c,0,0,0,0,NA,NA,0.5,50,0.15,
+z535c6rqbxxlh2dl,84,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.5,50,0,
+z535c6rq1r7j6bfr,98,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,2,c,c,0,1,0.15,33.33,NA,NA,0.3,30,0,
+z535c6rqitfn0jal,90,TP,TRUE,Random / Knowledge,H,c,1,c,c,c,c,2,c,0,0,0.45,100,NA,NA,0.5,50,0.45,
+z535c6rq1wxxrf5x,88,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqgu33u326,428,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0.3,
+z535c6rqw5ff5mja,84,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqmke8yggr,98,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.15,33.33,NA,NA,0.2,20,0,
+z535c6rqd3yv5jby,81,TP,FALSE,Random / Knowledge,P,c,c,c,1,c,c,c,c,0,0,0.05,11.11,NA,NA,0.5,50,0,I'm still confused but ok!
+z535c6rqkz4ivkwp,90,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,1,0,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rq93v8z5ak,91,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.3,
+z535c6rqtry2878m,428,TP,FALSE,Choice / Knowledge,H,c,1,c,c,c,c,3,c,0,0,0.2,44.44,NA,NA,0.5,50,0,Good survey
+z535c6rq65y3ssk8,303,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,none
+z535c6rqvuyyylcf,100,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,3,0,1,0,0,NA,NA,0.2,20,0,"would not work in Safari browser, had to switch to Chrome"
+z535c6rqed4mrthe,81,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.3,
+z535c6rqw3ov9byx,432,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0.45,
+z535c6rqg6xw4xjw,303,TP,TRUE,Random / Anonymous,P,c,c,c,1,c,1,c,c,0,0,0,0,NA,NA,0.5,50,0.22,
+z535c6rqqlnowcsm,100,TP,TRUE,Random / Anonymous,H,c,3,c,c,c,c,3,c,0,0,0.25,55.56,NA,NA,0.5,50,0.07,
+z535c6rqdgabuj5h,86,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rqbixz4vki,411,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.4,88.89,NA,NA,0.5,50,0.22,
+z535c6rqhjfgh446,91,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rq0slt8lb7,93,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.9,
+z535c6rq1p0my7l5,86,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,2,c,c,0,1,0,0,NA,NA,0.2,20,0.72,
+z535c6rqtb3k3lv9,411,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,1,c,c,0,1,0.15,33.33,NA,NA,0.5,50,0,
+z535c6rqf68nymds,96,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.15,
+z535c6rqpgyej774,432,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqj3b7j8xr,104,TP,FALSE,Random / Anonymous,H,c,1,1,c,2,c,2,c,0,0,0.25,55.56,NA,NA,0.5,50,0,VERY GOOD SURVEY
+z535c6rqjk8xjezb,305,TP,TRUE,Random / Knowledge,P,c,3,c,c,c,c,c,c,0,0,0,0,NA,NA,0,0,0,"Im a disabled marine corps veteran in need, otw i may have been more generous"
+z535c6rq8mhtp78d,310,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.4,88.89,NA,NA,0.5,50,0,
+z535c6rqwjzc2teq,96,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,1,2,c,0,1,0,0,NA,NA,1,100,0,
+z535c6rqfso63pxl,316,TP,FALSE,Choice / Knowledge,H,c,3,c,c,c,c,c,c,0,0,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqte283fnu,104,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,2,c,c,0,1,0.25,55.56,NA,NA,0.3,30,0.32,"none, except hoping I receive a bonus."
+z535c6rqyzglyy20,310,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqvyznbwbx,93,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqxlieir55,305,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.05,11.11,NA,NA,0.5,50,0,
+z535c6rqpf9ptvkf,101,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.2,20,0.72,
+z535c6rqrwwm0sps,302,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.05,11.11,NA,NA,0,0,0.51,
+z535c6rqjq5ysfo5,293,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,1,c,c,0,1,0,0,NA,NA,0,0,0,
+z535c6rqgtpsjo31,95,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rq91i1yrpa,101,TP,FALSE,Random / Knowledge,H,3,3,c,c,c,c,c,c,0,0,0.15,33.33,NA,NA,0.5,50,0,
+z535c6rqofavs5hz,302,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,None
+z535c6rqzh3fmoas,316,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,1,c,c,0,1,0.25,55.56,NA,NA,0.5,50,0.37,
+z535c6rqu6saxxi8,97,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.4,40,0.18,Thanks for the HIT! Have a nice day!
+z535c6rq16nlmabd,293,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0.45,
+z535c6rq2fw5fq0d,95,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.45,
+z535c6rqeiqc7qj0,106,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.3,30,0.63,
+z535c6rqgicvtq7j,102,TP,FALSE,Choice / Knowledge,P,c,3,c,c,c,c,c,c,0,0,0,0,NA,NA,0.5,50,0,
+z535c6rqzp9omeza,429,TP,FALSE,Choice / Knowledge,H,c,c,1,c,c,c,3,c,0,0,0.15,33.33,NA,NA,0.2,20,0,
+z535c6rqcoy809y4,97,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rq8qoeyby7,110,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.9,
+z535c6rqkvbqskk8,309,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqy14397s8,106,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.15,33.33,NA,NA,0.5,50,0,
+z535c6rqlqf4j63s,102,TP,TRUE,Choice / Knowledge,P,c,c,2,c,1,c,2,1,0,0,0.4,88.89,NA,NA,0.1,10,0.54,
+z535c6rqp8laz8ze,429,TP,TRUE,Choice / Knowledge,H,c,3,c,c,c,2,c,c,0,0,0.45,100,NA,NA,1,100,0,
+z535c6rqxchl4pmm,110,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.1,10,0,
+z535c6rq8o86l3om,315,TP,TRUE,Random / Knowledge,H,c,3,c,1,c,c,c,c,0,0,0.15,33.33,NA,NA,0.4,40,0,
+z535c6rqa5epf2hv,107,TP,TRUE,Choice / Knowledge,P,c,c,2,c,c,c,c,c,0,0,0,0,NA,NA,0.5,50,0,
+z535c6rq14umjyh7,109,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.2,20,0,
+z535c6rqgi9pjdsl,99,TP,FALSE,Random / Anonymous,P,c,c,2,c,c,c,c,c,0,0,0.45,100,NA,NA,0.5,50,0,Interesting survey. Wish you the best in your research.
+z535c6rqyu62xx43,309,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqn958tmf0,315,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rqkr33fack,109,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.3,30,0.63,
+z535c6rqo0fyp59h,115,TP,FALSE,Random / Anonymous,H,c,3,c,1,c,c,c,c,0,0,0.2,44.44,NA,NA,0.4,40,0,
+z535c6rqsvh8ibkm,314,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,1,c,c,0,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rqr5awu7i7,107,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqhwt19md1,113,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.4,40,0,
+z535c6rqh102ohod,99,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,1,2,c,0,1,0,0,NA,NA,0.4,40,0.54,
+z535c6rqspae8m51,314,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,2,c,c,0,1,0,0,NA,NA,0.3,30,0,
+z535c6rqrh3n2q7w,319,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.05,11.11,NA,NA,0.3,30,0,
+z535c6rqkwttrmn2,103,TP,FALSE,Random / Anonymous,P,c,3,c,1,c,c,c,c,0,0,0.15,33.33,NA,NA,0.5,50,0,thank you
+z535c6rqybiqek5d,115,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,2,c,c,0,1,0,0,NA,NA,0,0,0.9,
+z535c6rqqpj934zd,105,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.3,66.67,NA,NA,0.5,50,0,
+z535c6rq2wxgy3u6,319,TP,TRUE,Random / Knowledge,H,c,3,c,1,c,c,c,c,0,0,0.25,55.56,NA,NA,0.5,50,0.45,
+z535c6rqsoxtz8f3,306,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.5,50,0.45,
+z535c6rqo7yd9xgr,113,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqydk15lae,103,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.45,
+z535c6rqxh7swb5o,118,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rq3ohchjdg,105,TP,TRUE,Random / Knowledge,P,3,3,1,c,c,2,c,1,0,0,0,0,NA,NA,0,0,0,it was fun
+z535c6rqh7gp6zmq,323,TP,TRUE,Random / Knowledge,H,c,3,c,c,c,c,c,c,0,0,0.25,55.56,NA,NA,0.5,50,0.07,Thank you
+z535c6rqi8fqyay2,306,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqw1n38cbg,117,TP,FALSE,Choice / Knowledge,H,2,c,c,c,c,c,c,3,0,0,0.15,33.33,NA,NA,0.1,10,0,
+z535c6rql7sqzk0e,108,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,2,c,c,0,1,0,0,NA,NA,0,0,0.6,
+z535c6rqqjtrlm8p,118,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rq5f01awdv,323,TP,FALSE,Random / Knowledge,H,c,3,c,c,c,c,3,c,0,0,0.3,66.67,NA,NA,0.5,50,0,
+z535c6rqaromcbyy,112,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqcfna6m4d,117,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0,0,0,
+z535c6rqcr4badc8,108,TP,FALSE,Random / Anonymous,P,c,3,c,1,c,2,c,c,0,0,0.45,100,NA,NA,0.5,50,0,
+z535c6rqhdkod2hr,297,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.4,40,0,
+z535c6rqdkjs0mzt,318,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.12,26.67,NA,NA,0.5,50,0.37,Thank You. Hav a good day. 
+z535c6rqmljb31gi,120,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqlpwg8el7,112,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,THANK YOU 
+z535c6rqomcinqun,324,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.3,66.67,NA,NA,0.3,30,0.63,
+z535c6rqkmyqsrqg,297,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.9,
+z535c6rqsladyjqa,318,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqipw0pgd0,120,TP,TRUE,Random / Knowledge,H,c,c,c,c,1,2,2,c,0,0,0.25,55.56,NA,NA,0.4,40,0.36,
+z535c6rqrwa2uboo,116,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.15,33.33,NA,NA,0.3,30,0.63,
+z535c6rqac228e6s,127,TP,TRUE,Random / Anonymous,H,c,3,c,1,2,c,2,c,0,0,0.2,44.44,NA,NA,0.5,50,0.45,The game is interesting.
+z535c6rqmv7k3ypq,111,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.1,10,0,Interesting game.  Lots of rules to remember.
+z535c6rqzsxc87j6,116,TP,FALSE,Choice / Knowledge,P,c,1,2,2,c,c,c,1,0,0,0.01,2.22,NA,NA,0.1,10,0,Great study and very challenging. I really like this a lot. Make different ones!!! 
+z535c6rq6tm0u1cr,324,TP,FALSE,Choice / Knowledge,H,c,c,2,c,c,c,2,c,0,0,0.25,55.56,NA,NA,0,0,0,"This was an interesting study,like doing it."
+z535c6rqkvlz3o7c,307,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.15,33.33,NA,NA,0.5,50,0,
+z535c6rq2wkwbxgg,127,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqmtl1ipbz,111,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.1,
+z535c6rq6f5uc6fj,125,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.5,50,0.45,
+z535c6rq1fq2fgu2,307,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,3,c,0,1,0,0,NA,NA,0,0,0,
+z535c6rqk2mjeem1,131,TP,TRUE,Random / Anonymous,H,c,3,c,c,c,c,c,c,0,0,0.25,55.56,NA,NA,0.5,50,0.45,Have a great day!
+z535c6rquffsbvij,121,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.4,88.89,NA,NA,0.5,50,0.18,
+z535c6rq1hlwwe27,125,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rq3tempehz,131,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqvifpw97i,322,TP,FALSE,Random / Knowledge,P,c,c,2,c,1,2,c,c,0,0,0,0,NA,NA,0.7,70,0,
+z535c6rqphuigbea,123,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,1,c,c,0,1,0,0,NA,NA,0,0,0,
+z535c6rqkfwi7oyk,121,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqk4rztt7e,397,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.3,30,0,
+z535c6rqrliczpqf,322,TP,TRUE,Random / Knowledge,P,c,3,c,c,c,1,c,c,0,0,0,0,NA,NA,0.5,50,0.19,
+z535c6rqoxux2aq4,123,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,2,c,0,1,0,0,NA,NA,0.1,10,0,
+z535c6rq037e82tv,124,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.22,no problems
+z535c6rqesqe87d7,129,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rq91i23ksk,114,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.45,
+z535c6rqedqhucjo,397,TP,FALSE,Random / Anonymous,H,c,3,c,1,c,c,c,c,0,0,0.2,44.44,NA,NA,0.5,50,0,Thank you
+z535c6rqq1c63boz,119,TP,TRUE,Random / Knowledge,P,c,c,c,1,c,c,c,c,0,0,0,0,NA,NA,0,0,0.9,
+z535c6rq7ijbnd85,412,TP,TRUE,Random / Knowledge,H,c,c,c,c,1,c,c,c,0,0,0,0,NA,NA,0,0,0.9,
+z535c6rqbttss1vk,124,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqrq4svjzd,129,TP,TRUE,Choice / Knowledge,H,3,c,c,c,c,c,c,c,0,0,0.25,55.56,NA,NA,0,0,0.87,i like nachos
+z535c6rqcvghd32d,114,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqg7qho9yd,139,TP,TRUE,Random / Anonymous,H,c,3,c,c,c,c,c,c,0,0,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rq0fmqcq5b,119,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,thanks
+z535c6rqhlfjuzos,412,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,1,0,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqrz8bolk4,311,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.3,
+z535c6rqmbd2f7qy,327,TP,TRUE,Choice / Knowledge,H,c,c,2,c,3,c,c,c,0,0,0.25,55.56,NA,NA,0.4,40,0.54,
+z535c6rqfjpuvqte,312,TP,FALSE,Random / Anonymous,P,c,c,c,3,c,c,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqpsp7igc4,139,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,1,c,c,0,1,0.45,100,NA,NA,0.3,30,0,thanks!
+z535c6rq7ayymuiu,122,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,1,0,1,0,0,NA,NA,0,0,0.9,
+z535c6rq0xjpn2pq,132,TP,TRUE,Random / Knowledge,H,c,3,c,c,c,c,c,1,0,0,0.22,48.89,NA,NA,0.5,50,0.45,
+z535c6rqttwgqv1m,311,TP,FALSE,Choice / Knowledge,P,c,c,c,c,1,c,c,1,0,0,0,0,NA,NA,0.5,50,0,
+z535c6rq0hdqnirl,327,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqq57bg5ql,312,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.4,40,0.54,
+z535c6rqpkxzvjkr,142,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,2,c,c,0,1,0.25,55.56,NA,NA,0.4,40,0,
+z535c6rq8vxjk9th,122,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqzl7mo0lq,133,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.05,11.11,NA,NA,0.2,20,0,
+z535c6rqpalklmdl,142,TP,TRUE,Random / Anonymous,H,c,c,c,1,c,c,c,c,0,0,0,0,NA,NA,0,0,0.9,
+z535c6rqoxb9s09j,128,TP,TRUE,Random / Knowledge,P,c,c,2,c,c,c,c,3,0,0,0,0,NA,NA,0.5,50,0,
+z535c6rqcv6kq3ir,132,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqdqlf4bog,138,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0.45,Thank you!
+z535c6rqqmu7ym74,388,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.3,66.67,NA,NA,0.5,50,0,
+z535c6rq0cwf39mj,304,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.5,50,0,
+z535c6rqnyxipgbj,136,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,2,c,c,0,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqdo0cssbt,133,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.3,30,0,
+z535c6rqo2wg6nnx,138,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,no comment
+z535c6rq0s3vgxsa,388,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.3,No comments
+z535c6rqamgq8a20,304,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.3,30,0.21,Interesting game.
+z535c6rq9zzrdamz,128,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.5,50,0,
+z535c6rqkn29payw,137,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,1,c,c,0,1,0,0,NA,NA,0,0,0.3,
+z535c6rq5j1py8ix,331,TP,FALSE,Choice / Knowledge,H,c,c,2,c,c,c,c,1,0,0,0.05,11.11,NA,NA,0,0,0,
+z535c6rq652964vf,149,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.1,10,0,
+z535c6rqr9w1lgym,136,TP,TRUE,Random / Knowledge,H,c,c,1,c,c,2,c,c,0,0,0,0,NA,NA,0.2,20,0,
+z535c6rqj6v797vw,137,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,1,c,c,0,1,0,0,NA,NA,0,0,0,
+z535c6rqwjvyzdfx,331,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0.45,
+z535c6rqh8xbjz4s,126,TP,FALSE,Random / Anonymous,P,3,1,2,1,3,2,2,1,0,0,0,0,NA,NA,0,0,0,
+z535c6rq0owvya0c,149,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.5,50,0.45,
+z535c6rqmqce45hw,325,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,NONE
+z535c6rqc0kphe7n,140,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqxfb2eq00,141,TP,TRUE,Choice / Knowledge,P,c,3,c,c,3,c,2,c,0,0,0.25,55.56,NA,NA,0.3,30,0.42,
+z535c6rqyv8q093k,144,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.3,30,0.63,
+z535c6rql7dsu6io,126,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.9,
+z535c6rqueif7d7g,308,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.4,40,0.18,
+z535c6rqj908mwok,325,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.2,20,0.36,
+z535c6rq0bk8u3ax,141,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rq3p0i9myv,144,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqrbvvybq9,130,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,1,c,c,0,1,0.2,44.44,NA,NA,0.5,50,0.45,none
+z535c6rqpczhp02v,308,TP,FALSE,Random / Anonymous,H,c,3,c,1,c,c,c,c,0,0,0,0,NA,NA,0.5,50,0,
+z535c6rq47fomw08,140,TP,TRUE,Random / Knowledge,H,c,1,c,c,c,c,c,c,0,0,0.3,66.67,NA,NA,0.5,50,0.45,
+z535c6rqw1aqmpt2,421,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rq7l4zt6fy,441,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0,0,0,
+z535c6rqf3ohiodg,130,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,thanks
+z535c6rqyz0uyfmo,158,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqjpz8jbq0,135,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.5,50,0,
+z535c6rqg1oad2p9,158,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,2,c,c,0,1,0.1,22.22,NA,NA,0.5,50,0.45,
+z535c6rq1x9tic6m,143,TP,FALSE,Random / Knowledge,H,c,3,c,c,c,2,2,c,0,0,0.25,55.56,NA,NA,0.1,10,0,
+z535c6rqq8bo755g,421,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0,0,0.9,No issues
+z535c6rqb0vm48fp,441,TP,TRUE,Choice / Knowledge,H,c,1,c,c,c,1,2,c,0,0,0.2,44.44,NA,NA,0,0,0.45,I enjoyed this HIT
+z535c6rqwqbkhpk2,134,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.4,40,0.36,
+z535c6rqhpoy4ta5,163,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqw9rql9zm,143,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,1,c,c,0,1,0.4,88.89,NA,NA,0.5,50,0.3,
+z535c6rq1zeii4uc,147,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.5,50,0.45,
+z535c6rq50qzcygt,153,TP,TRUE,Choice / Knowledge,H,c,c,c,c,1,c,c,c,0,0,0.05,11.11,NA,NA,0.3,30,0.32,
+z535c6rqaigtztaz,163,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.2,20,0.36,"It's absurd that in the second ""game"", I had to decide a percentage to return without knowing what the person did first? Cause that would totally change my behavior...?"
+z535c6rqx17k126e,147,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rq2deszt1p,153,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,1,c,c,0,1,0,0,NA,NA,0.3,30,0,
+z535c6rqpioo189p,134,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqmdpbpmfb,313,TP,FALSE,Random / Anonymous,H,c,3,c,c,c,2,c,c,0,0,0.23,51.11,NA,NA,0.5,50,0,
+z535c6rq3jkvr5di,135,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,1,0,1,0,0,NA,NA,0.5,50,0.15,
+z535c6rqqwma3swz,146,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.15,33.33,NA,NA,0.3,30,0,
+z535c6rqd9s7onw3,152,TP,TRUE,Choice / Knowledge,P,c,3,c,c,c,c,c,c,0,0,0.2,44.44,NA,NA,0,0,0.6,
+z535c6rqs4kur2r4,430,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0.22,
+z535c6rqfigpjja1,320,TP,FALSE,Random / Anonymous,P,c,c,c,1,c,c,c,c,0,0,0,0,NA,NA,0.1,10,0,
+z535c6rqxs6bznif,313,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,2,c,c,0,1,0,0,NA,NA,0.3,30,0.11,
+z535c6rq25fhmsfa,329,TP,FALSE,Random / Knowledge,P,c,3,c,c,c,c,c,c,0,0,0,0,NA,NA,0.5,50,0,
+z535c6rqgx2kddz3,146,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.3,30,0.21,
+z535c6rqwzcc6zcr,152,TP,FALSE,Choice / Knowledge,P,c,c,c,1,c,c,c,c,0,0,0,0,NA,NA,0.5,50,0,
+z535c6rqvaroo0aa,430,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,The questions were clear and I experienced no problems.
+z535c6rq4spxilad,320,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.15,
+z535c6rq5qkxbw0r,329,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,1,c,c,0,1,0,0,NA,NA,0,0,0.9,Thanks
+z535c6rqrk211kq8,151,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.3,30,0,
+z535c6rq1t4mr9n4,156,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,2,c,c,0,1,0,0,NA,NA,0.4,40,0,
+z535c6rq1zkqzhdr,161,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqemf0bell,170,TP,FALSE,Random / Anonymous,H,c,c,c,c,3,c,c,c,0,0,0.05,11.11,NA,NA,0.4,40,0,
+z535c6rqptrg32f3,334,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqapibrzei,151,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqaeptwmvt,161,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.4,40,0.54,
+z535c6rq9gxj7pjo,389,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,1,0,1,0.05,11.11,NA,NA,0.5,50,0,
+z535c6rqgqb720yv,334,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,2,c,0,1,0.45,100,NA,NA,1,100,0,"Surprisingly complex, but quite interesting...Thanks!"
+z535c6rqsb7qgrms,156,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,none
+z535c6rqhsv0z6ux,165,TP,TRUE,Choice / Knowledge,H,c,c,2,1,c,c,2,c,0,0,0.45,100,NA,NA,0.5,50,0.07,
+z535c6rq9n4jog5y,170,TP,TRUE,Random / Anonymous,H,c,c,c,c,3,1,c,c,0,0,0,0,NA,NA,0,0,0.9,
+z535c6rqpfchrand,145,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.4,40,0.36,Fun and Interesting
+z535c6rqy7xjpu7c,160,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.3,30,0,
+z535c6rqgcs5chn8,389,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,3,c,0,1,0.25,55.56,NA,NA,0.2,20,0.46,na
+z535c6rqifxon2t8,175,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,"Thanks, and all the best with your research!"
+z535c6rqatc8root,145,TP,FALSE,Random / Knowledge,P,c,1,c,c,c,c,c,c,0,0,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqrqlt1m48,155,TP,FALSE,Random / Knowledge,H,c,c,1,c,c,2,c,c,0,0,0,0,NA,NA,0,0,0,great task
+z535c6rq23s5so97,160,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,2,c,1,0,1,0.15,33.33,NA,NA,0.5,50,0.45,
+z535c6rqw5uga12k,165,TP,FALSE,Choice / Knowledge,H,c,3,c,c,c,c,c,c,0,0,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqq3pjdjws,175,TP,FALSE,Random / Anonymous,H,c,c,c,3,c,1,3,3,0,0,0.1,22.22,NA,NA,0.1,10,0,
+z535c6rq1dnovjji,150,TP,FALSE,Random / Knowledge,P,c,3,c,c,3,c,3,3,0,0,0.05,11.11,NA,NA,0.5,50,0,
+z535c6rqyjdsmcns,155,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0.45,I always try to be fair!
+z535c6rqe1wj0k0q,328,TP,TRUE,Random / Anonymous,P,c,c,c,1,c,2,c,1,0,0,0,0,NA,NA,0,0,0.9,
+z535c6rqa2mf27sc,177,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.4,40,0,
+z535c6rqorpi0w6m,150,TP,TRUE,Random / Knowledge,P,c,c,c,1,c,c,c,c,0,0,0,0,NA,NA,0.5,50,0.22,
+z535c6rqodepaoks,422,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqi1h69g5t,169,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.4,40,0.18,
+z535c6rqila6t80r,328,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.3,30,0,
+z535c6rqtpo39o0j,177,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,2,c,0,1,0.25,55.56,NA,NA,0.3,30,0.63,
+z535c6rqcsps7uvf,154,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.2,20,0,
+z535c6rq570f5ggl,422,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqvnmoiibi,169,TP,FALSE,Choice / Knowledge,H,c,3,c,c,c,c,3,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqief8kgik,148,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,3,c,0,1,0.25,55.56,NA,NA,0.5,50,0.15,
+z535c6rq6t6zy1l0,317,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.4,40,0,excellent HIT
+z535c6rqr6nbllox,154,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rq9jxi5f62,330,TP,TRUE,Random / Knowledge,H,c,c,c,1,c,2,c,c,0,0,0.1,22.22,NA,NA,0.1,10,0.81,
+z535c6rq14305wxk,423,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0.45,
+z535c6rq3up09cfa,173,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,1,c,c,0,1,0.1,22.22,NA,NA,0,0,0,Thanks
+z535c6rqmwvtmo9r,148,TP,FALSE,Random / Anonymous,P,c,3,c,c,c,c,2,c,0,0,0.05,11.11,NA,NA,0.5,50,0,
+z535c6rqhwbmwd8d,317,TP,TRUE,Random / Anonymous,H,c,3,c,3,c,c,c,c,0,0,0.15,33.33,NA,NA,0.5,50,0,
+z535c6rqh5apnduf,159,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,3,3,0,1,0.15,33.33,NA,NA,0.2,20,0,"For some reason I thought it only tripled in Game B if they actually sent money, and also it wasn't completely clear to me if it meant they participated in MY game A or just game A at all."
+z535c6rq0kj07yh4,330,TP,FALSE,Random / Knowledge,H,c,c,c,1,c,c,c,c,0,0,0.1,22.22,NA,NA,0.2,20,0,This survey is EXTREMELY stupid.  It is obviously EXTREMELY necessecary to know EXACT AMOUNTS in order to make a decision.  It is MANDATORY to show us the EXACT AMOUNT in order to get accurate results
+z535c6rqynfu0xo2,423,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,3,c,0,1,0.15,33.33,NA,NA,0.5,50,0,Hello? Anybody there?
+z535c6rq2tposkn7,173,TP,TRUE,Choice / Knowledge,H,c,c,c,2,c,c,c,c,0,0,0.45,100,NA,NA,0.5,50,0.45,
+z535c6rqppfqjbsm,186,TP,TRUE,Random / Anonymous,H,2,c,c,c,c,c,c,c,0,0,0.1,22.22,NA,NA,0.4,40,0.11,
+z535c6rq1sij7psk,159,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.45,
+z535c6rqkrglf0vw,326,TP,TRUE,Choice / Knowledge,P,c,c,c,2,1,c,c,c,0,0,0.15,33.33,NA,NA,0.4,40,0.27,
+z535c6rq99r4qjv6,442,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0.15,I have nothing to add. 
+z535c6rqgsuo43tm,332,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqf8yx9jmo,186,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqsyd9v4cg,413,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.5,50,0,
+z535c6rquc53j4qh,326,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.4,88.89,NA,NA,0.5,50,0,Thank you
+z535c6rq32fsdmua,442,TP,FALSE,Choice / Knowledge,H,c,1,c,c,3,2,2,3,0,0,0,0,NA,NA,0,0,0,
+z535c6rqwox0hd46,332,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.4,40,0.54,
+z535c6rqzpctrlmx,188,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.4,40,0,"Very interesting, can't wait to see what others chose"
+z535c6rqz9m8rhh4,164,TP,TRUE,Random / Knowledge,P,c,c,c,1,c,c,c,c,0,0,0.25,55.56,NA,NA,0.5,50,0.45,
+z535c6rqwst59bw7,413,TP,TRUE,Random / Knowledge,H,c,3,c,c,c,c,c,c,0,0,0.2,44.44,NA,NA,0.5,50,0.45,
+z535c6rqdzhdlpqn,438,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.9,
+z535c6rqdb1wk9yx,342,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,2,c,c,0,1,0,0,NA,NA,0,0,0,n/a
+z535c6rqecp7ts1b,157,TP,FALSE,Random / Anonymous,P,c,c,c,c,2,1,c,c,0,0,0,0,NA,NA,0.5,50,0,
+z535c6rqlhdayrno,188,TP,TRUE,Random / Anonymous,H,c,3,c,c,c,c,c,c,0,0,0,0,NA,NA,0.2,20,0.36,none
+z535c6rq4l8ira2o,164,TP,FALSE,Random / Knowledge,P,c,c,c,1,c,c,c,c,0,0,0.3,66.67,NA,NA,0.1,10,0,
+z535c6rqegxwcjou,168,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0.45,
+z535c6rqs5qr2m1u,438,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,Thanks for letting me take part!
+z535c6rqbq4cxl3s,342,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,1,2,c,0,1,0.45,100,NA,NA,1,100,0,
+z535c6rqbuwxug0r,157,TP,TRUE,Random / Anonymous,P,c,1,c,c,c,c,c,c,0,0,0,0,NA,NA,0,0,0.3,thank you!
+z535c6rq6i1uv6ry,191,TP,TRUE,Random / Anonymous,H,2,c,c,c,c,c,c,c,0,0,0,0,NA,NA,0.5,50,0.15,
+z535c6rq1k6xodkc,167,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,"fun hit, hope I win a good bonus!"
+z535c6rqkt3vlb08,168,TP,FALSE,Random / Knowledge,H,c,c,c,c,1,2,3,1,0,0,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rqgrl4ysek,179,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.45,
+z535c6rqaieefybm,184,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0.45,
+z535c6rqhosih9n7,162,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.15,33.33,NA,NA,0.3,30,0.63,
+z535c6rqspi84wz7,191,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.3,30,0,
+z535c6rqv2dgsqcb,167,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rq2cyxussh,179,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rq46x7053i,184,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rq2krdwfz7,162,TP,FALSE,Random / Anonymous,P,c,3,c,c,c,c,c,c,0,0,0,0,NA,NA,0.5,50,0,
+z535c6rq14t5vyfw,193,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.2,20,0.72,
+z535c6rqsx6mw0bw,171,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,1,c,c,0,1,0.25,55.56,NA,NA,0.5,50,0.3,
+z535c6rqurquz4cg,172,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,1,100,0,
+z535c6rqf4c5z151,183,TP,TRUE,Choice / Knowledge,P,c,c,c,2,c,1,3,c,0,0,0.43,95.56,NA,NA,0.4,40,0.36,
+z535c6rqdlg6jcm8,166,TP,FALSE,Random / Anonymous,P,c,1,1,3,2,1,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqyfzaur5a,193,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.3,30,0,Fun
+z535c6rqd7wgp9cc,171,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqs8xm1y8h,172,TP,TRUE,Random / Knowledge,H,c,c,2,1,1,2,c,1,0,0,0,0,NA,NA,0,0,0,
+z535c6rqx1oylf2u,183,TP,FALSE,Choice / Knowledge,P,c,c,c,2,c,2,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqbyq4v4xm,347,TP,FALSE,Choice / Knowledge,H,c,c,c,2,c,2,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqeg7m5n3s,166,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.9,
+z535c6rqt398himh,199,TP,TRUE,Random / Anonymous,H,c,3,c,c,2,1,c,1,0,0,0.25,55.56,NA,NA,1,100,0,
+z535c6rqk5esxwm8,176,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0.45,
+z535c6rq35imvaih,437,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.6,
+z535c6rqhda6owe1,187,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.3,
+z535c6rqzzc8g5qf,347,TP,TRUE,Choice / Knowledge,H,c,3,c,c,c,c,c,c,0,0,0.2,44.44,NA,NA,0.5,50,0.45,
+z535c6rq4q3bwfuk,390,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rqc8ltf1mu,199,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rq0yfy240a,437,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.3,30,0,
+z535c6rqkfj7ejm3,390,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqaps76qd3,321,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.4,40,0.54,
+z535c6rqy5aq2c7a,176,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,1,c,c,0,1,0.4,88.89,NA,NA,0.5,50,0,
+z535c6rq4wxjegn1,414,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.3,30,0,
+z535c6rqejpm9ku1,187,TP,FALSE,Choice / Knowledge,P,c,c,2,c,c,c,c,c,0,0,0.05,11.11,NA,NA,0.3,30,0,
+z535c6rql3gdlasa,190,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.12,26.67,NA,NA,0.3,30,0,
+z535c6rq8qizmxcy,174,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.22,
+z535c6rqwa2zrqoe,321,TP,FALSE,Random / Anonymous,H,c,3,c,c,c,c,c,c,0,0,0,0,NA,NA,0.2,20,0,Thanks.
+z535c6rqnnjzxxg6,178,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.5,50,0.45,Thanks
+z535c6rqajvaork5,414,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0.45,
+z535c6rqgqg2yn3k,335,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.5,50,0.15,
+z535c6rqghbnylxe,190,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0.22,
+z535c6rqxrcr6did,174,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqq860dwtp,398,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqkj2j9orr,178,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqjnxr0wva,182,TP,FALSE,Random / Knowledge,H,c,c,1,c,c,c,c,c,0,0,0.23,51.11,NA,NA,0.5,50,0,Thank you. I wish you well in your studies.
+z535c6rqvr1yxrai,335,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqgtsdz0h7,391,TP,TRUE,Random / Anonymous,P,c,3,c,c,c,c,c,c,0,0,0,0,NA,NA,0.5,50,0,
+z535c6rqbx5u8hl2,398,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.15,33.33,NA,NA,0.1,10,0,Thanks!
+z535c6rqx6s3wew4,181,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0.22,
+z535c6rqi8f8n9be,440,TP,TRUE,Choice / Knowledge,P,c,c,c,1,c,c,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqjbeosabx,352,TP,TRUE,Choice / Knowledge,H,c,3,c,c,c,c,3,c,0,0,0.2,44.44,NA,NA,0.2,20,0.12,it was fun
+z535c6rq6iu1koh2,391,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,Thank you!
+z535c6rq4hc470np,208,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqqmo6wwmz,181,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqpe5v933x,440,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.1,10,0,
+z535c6rqf3z8ze9m,352,TP,FALSE,Choice / Knowledge,H,c,3,c,c,c,c,2,c,0,0,0.15,33.33,NA,NA,0.8,80,0,very confusing.
+z535c6rqrceg94f1,180,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0,0,0.9,
+z535c6rqi0nbssf3,208,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0,0,0.45,
+z535c6rq1frzjlr0,408,TP,TRUE,Random / Knowledge,P,c,3,1,3,3,1,3,3,0,0,0.05,11.11,NA,NA,0.5,50,0.45,I still feel sharing is importion
+z535c6rq4tztwv9a,196,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqjm55bl8v,197,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rq3vq5riue,212,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,1,0,1,0,0,NA,NA,0,0,0,
+z535c6rqyif8foa8,408,TP,FALSE,Random / Knowledge,P,c,1,2,c,c,2,c,3,0,0,0.45,100,NA,NA,0.1,10,0,
+z535c6rqc6o1pxz0,182,TP,TRUE,Random / Knowledge,H,c,c,1,1,c,c,c,c,0,0,0.2,44.44,NA,NA,0.2,20,0.36,
+z535c6rqmsqcor4y,196,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,1,c,c,0,1,0.1,22.22,NA,NA,0.5,50,0.45,
+z535c6rqrwhfglb8,197,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0,0,0.9,I am a jerk this morning.
+z535c6rq547zb1f0,180,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,3,c,0,1,0.1,22.22,NA,NA,0.5,50,0,
+z535c6rqpsec763z,212,TP,TRUE,Random / Anonymous,H,3,3,c,c,c,c,c,1,0,0,0.2,44.44,NA,NA,0.5,50,0.15,"Questions for game A were a bit confusing. It said something like it would be ""costly"" to give to #2, but didn't say in what way."
+z535c6rqeyam43ar,337,TP,TRUE,Random / Knowledge,P,3,1,c,c,c,c,3,c,0,0,0,0,NA,NA,0.1,10,0,
+z535c6rqbf5dvogh,436,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rqsh2838z5,338,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,1,0,1,0.1,22.22,NA,NA,0.5,50,0,
+z535c6rqitqqgcfp,200,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.05,11.11,NA,NA,0.5,50,0,
+z535c6rqvr4drhkf,337,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,1,0,1,0,0,NA,NA,0.2,20,0,I got the last question wrong because it was unclear. You said that Player 4 was randomly chosen between me and another player 3 from game A. That would mean that player 4 DID participate in game A.
+z535c6rqlctenjbu,436,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,1,0,1,0.2,44.44,NA,NA,0.5,50,0.04,no comments
+z535c6rq9oqw9pud,338,TP,TRUE,Choice / Knowledge,P,c,1,c,2,c,2,c,c,0,0,0.2,44.44,NA,NA,0.4,40,0.36,N/A
+z535c6rq8mw2jtvc,200,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqh9sjhhde,216,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqwhysha1y,192,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rq8oenlhia,189,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.05,11.11,NA,NA,0.1,10,0,
+z535c6rqo5vse2bq,202,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0,0,0.45,
+z535c6rqy4bsw12z,203,TP,FALSE,Choice / Knowledge,H,c,3,c,c,c,c,c,c,0,0,0.1,22.22,NA,NA,0.1,10,0,
+z535c6rqkpu27bko,185,TP,FALSE,Random / Anonymous,P,2,1,2,c,2,2,2,1,0,0,0.25,55.56,NA,NA,0.6,60,0,Liked it
+z535c6rqynj0ku0v,216,TP,TRUE,Random / Anonymous,H,c,c,1,1,c,c,c,c,0,0,0.2,44.44,NA,NA,0.1,10,0.3,
+z535c6rql7l4gab9,192,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,2,c,c,0,1,0,0,NA,NA,0,0,0.09,
+z535c6rqe7qwx5yv,189,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rqaozpnxgl,202,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.05,11.11,NA,NA,0.5,50,0,
+z535c6rq4rj95tzz,203,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0.45,
+z535c6rqprou183k,185,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.1,10,0.27,VERY FUN AND INTERESTING!
+z535c6rqxcfce14w,220,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,2,c,c,0,1,0,0,NA,NA,0,0,0,
+z535c6rqpdqx0vbv,194,TP,TRUE,Random / Knowledge,P,c,3,c,c,c,1,3,1,0,0,0.2,44.44,NA,NA,0.5,50,0.45,
+z535c6rqoz1tjm0f,346,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0.37,
+z535c6rqn2uzjbnm,206,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqh0g40cy8,392,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqcryq6snb,220,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.05,11.11,NA,NA,0.1,10,0.81,
+z535c6rqripc8nc5,194,TP,FALSE,Random / Knowledge,P,c,c,c,c,1,c,c,1,0,0,0,0,NA,NA,0,0,0,
+z535c6rqnf958fbo,346,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,Fun survey to complete. Thank you.
+z535c6rqswhrghqt,205,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rq2tcxz2sq,226,TP,FALSE,Random / Anonymous,H,c,c,c,3,c,c,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rq0rbrp58c,340,TP,FALSE,Random / Knowledge,P,c,c,c,1,c,c,c,c,0,0,0.4,88.89,NA,NA,0.6,60,0,
+z535c6rqfv4yg1ch,195,TP,FALSE,Random / Knowledge,H,c,c,c,c,1,1,c,1,0,0,0.05,11.11,NA,NA,0.5,50,0,
+z535c6rqbqzn0n0x,205,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,3,c,0,1,0,0,NA,NA,0,0,0,
+z535c6rqtfu0750y,340,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,I thought this was interesting
+z535c6rqyrpm48hv,195,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.12,
+z535c6rqx4357afl,210,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,I feel this game is too abstract. What's the point?
+z535c6rqbc9yzw3z,392,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,1,c,c,0,1,0,0,NA,NA,0,0,0.9,
+z535c6rqaszl3t4m,226,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.45,ty
+z535c6rq5ou5kccr,201,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,Thanks
+z535c6rqseh4orh0,350,TP,FALSE,Random / Knowledge,H,c,3,1,1,c,c,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rq99uyblhj,210,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.4,40,0,
+z535c6rqz7gtmpt9,206,TP,TRUE,Choice / Knowledge,H,c,3,2,c,3,2,2,3,0,0,0.45,100,NA,NA,1,100,0,
+z535c6rq44tm41i7,343,TP,FALSE,Random / Anonymous,P,c,3,c,c,c,c,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqkcmfzo90,231,TP,TRUE,Random / Anonymous,H,c,c,c,1,2,c,c,c,0,0,0.4,88.89,NA,NA,0.5,50,0.45,
+z535c6rqcz7ylucr,201,TP,TRUE,Random / Knowledge,P,c,1,c,1,c,1,c,c,0,0,0.15,33.33,NA,NA,0.4,40,0,
+z535c6rq9kmgeg6b,350,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,1,c,c,0,1,0,0,NA,NA,0,0,0,
+z535c6rqzhfci5nq,213,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rq7y9wsu9h,204,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.3,30,0.63,
+z535c6rq8sk5u7py,355,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,fun hit!
+z535c6rq45xkv4o6,213,TP,FALSE,Choice / Knowledge,P,c,3,2,2,c,2,2,1,0,0,0,0,NA,NA,0.2,20,0,
+z535c6rqpy1hsxn5,443,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.4,40,0,
+z535c6rqmczju7ok,343,TP,TRUE,Random / Anonymous,P,c,c,c,1,c,2,c,c,0,0,0.05,11.11,NA,NA,0.2,20,0.72,
+z535c6rqjrerg6uj,231,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rqu9gbc4ji,204,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqvku9q6na,355,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,1,0,1,0.25,55.56,NA,NA,0.3,30,0.32,
+z535c6rq11lxvose,443,TP,TRUE,Choice / Knowledge,H,c,3,1,2,c,c,2,c,0,0,0.45,100,NA,NA,0.5,50,0.45,
+z535c6rq5mxi5gkj,348,TP,TRUE,Random / Anonymous,P,c,3,c,1,c,1,c,c,0,0,0,0,NA,NA,0,0,0,none
+z535c6rqruzkb9zw,345,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.05,11.11,NA,NA,0.1,10,0,cool survey
+z535c6rqzaot3g6l,360,TP,FALSE,Random / Knowledge,H,c,c,2,c,c,c,c,c,0,0,0.2,44.44,NA,NA,0.3,30,0,
+z535c6rqt1pzhvz4,218,TP,FALSE,Choice / Knowledge,P,c,c,2,c,c,c,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqn64j1xoo,214,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0,0,0,
+z535c6rqfsqu5did,348,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rq0flp5deb,399,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0.22,
+z535c6rqwgbgmg8s,345,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.45,"none, thanks. I try to be fair."
+z535c6rqt83yzsuv,360,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0.45,
+z535c6rq1vi7fmfv,218,TP,TRUE,Choice / Knowledge,P,c,1,2,c,c,c,c,c,0,0,0.05,11.11,NA,NA,0.5,50,0.15,
+z535c6rq5phtt98x,214,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.6,60,0.36,
+z535c6rq0skh4z6u,349,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqi40xynhh,209,TP,TRUE,Random / Knowledge,H,c,c,c,1,c,c,c,c,0,0,0.45,100,NA,NA,0.5,50,0.45,
+z535c6rqj6zq0mpa,223,TP,FALSE,Choice / Knowledge,P,2,3,2,2,c,c,2,1,0,0,0,0,NA,NA,0,0,0,
+z535c6rqcptvvz22,219,TP,TRUE,Choice / Knowledge,H,c,3,c,c,c,c,c,c,0,0,0.25,55.56,NA,NA,0.5,50,0.45,Thanks for letting me partake.
+z535c6rqszmx7vqc,198,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rql7opuml9,399,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,Thank you for allowing me to participate!
+z535c6rq7m2gi89b,209,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.1,10,0,
+z535c6rq2k06kga1,223,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0.45,
+z535c6rqern4g3zt,219,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rqz6d476ia,198,TP,TRUE,Random / Anonymous,P,c,1,c,c,c,2,c,c,0,0,0.05,11.11,NA,NA,0.1,10,0.4,"interesting, thanks."
+z535c6rquyr16xis,333,TP,TRUE,Random / Anonymous,H,c,c,c,1,c,c,c,c,0,0,0.05,11.11,NA,NA,0.5,50,0.45,Thank you
+z535c6rq7tmmoujn,349,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rq0sn77qtv,229,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.5,50,0.15,
+z535c6rq2soarm0o,433,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rq93h50meo,333,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.15,33.33,NA,NA,0.4,40,0,
+z535c6rqr8izdk1q,217,TP,FALSE,Random / Knowledge,P,c,1,c,c,c,c,3,c,0,0,0.25,55.56,NA,NA,0.3,30,0,
+z535c6rqaeqkfak0,366,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,1,c,c,0,1,0.1,22.22,NA,NA,0.5,50,0.15,
+z535c6rq15i8e97f,224,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rq43zjuj47,433,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,1,c,c,0,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqako7jb77,242,TP,FALSE,Random / Anonymous,H,c,c,c,3,c,2,c,c,0,0,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rq1sx6vaz5,366,TP,FALSE,Random / Knowledge,H,c,c,c,1,c,2,c,c,0,0,0.25,55.56,NA,NA,0.5,50,0,Interesting to take. Thanks.
+z535c6rqtlisrzpe,229,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rqxjibzwhr,242,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.4,40,0.18,
+z535c6rqpko6g1cz,217,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.4,40,0.36,
+z535c6rq4ad8tz70,372,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0,0,0.9,why is player a sending .05 to player b considered an unfair share?  Player a is under no obligation to share his bonus
+z535c6rqvefbzidz,234,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.3,30,0.32,
+z535c6rqmaq2rgy1,224,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,2,3,c,0,1,0.25,55.56,NA,NA,0.5,50,0.22,Very fun and interesting HIT
+z535c6rqh226hvv7,357,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.1,10,0,
+z535c6rqp5tch4h3,400,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqrl2bq4n1,221,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,none
+z535c6rq27wizoba,234,TP,FALSE,Choice / Knowledge,P,c,c,c,2,1,c,c,c,0,0,0,0,NA,NA,0.7,70,0,
+z535c6rq66pwxbby,362,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,2,2,c,0,1,0.25,55.56,NA,NA,0.2,20,0.72,THank you
+z535c6rq9d8645fl,357,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.4,40,0.54,
+z535c6rqzrh8jfya,400,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,2,3,1,0,1,0,0,NA,NA,0,0,0.3,
+z535c6rq6safqdqa,221,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,2,1,0,1,0,0,NA,NA,0.5,50,0,
+z535c6rqrc3rxodi,341,TP,FALSE,Choice / Knowledge,P,c,1,c,c,c,c,c,c,0,0,0.05,11.11,NA,NA,0.5,50,0,
+z535c6rq6kb0d2hm,362,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqxk4gt27i,207,TP,TRUE,Random / Anonymous,P,c,3,c,c,c,c,c,c,0,0,0,0,NA,NA,0,0,0.9,
+z535c6rqpn0l9n6r,248,TP,FALSE,Random / Anonymous,H,c,c,c,c,2,c,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqxbzwly4f,227,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,1,0,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqxzrb7riu,372,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqb6jujamv,341,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.9,
+z535c6rq12xx1ez4,368,TP,FALSE,Choice / Knowledge,H,c,c,2,c,c,1,c,c,0,0,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rqa3qt5wa5,207,TP,FALSE,Random / Anonymous,P,c,1,c,c,c,c,c,c,0,0,0,0,NA,NA,0.5,50,0,
+z535c6rqr0q0g7pt,248,TP,TRUE,Random / Anonymous,H,c,c,c,3,c,c,c,c,0,0,0.2,44.44,NA,NA,0.3,30,0.32,
+z535c6rqh1qafytw,227,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,1,c,c,0,1,0,0,NA,NA,0,0,0.45,
+z535c6rqw7c9qr7k,240,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0.07,
+z535c6rqhw7g77kt,368,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,2,c,c,0,1,0.45,100,NA,NA,0,0,0.6,Thanks
+z535c6rqlm5na9g1,252,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.1,10,0,
+z535c6rqc6woxgtf,232,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.05,11.11,NA,NA,0.5,50,0,cool.
+z535c6rq6q1k5vgi,222,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rqbxh1cha0,240,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqruta5v78,238,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.22,48.89,NA,NA,0.5,50,0.3,
+z535c6rqortd25dn,211,TP,FALSE,Random / Anonymous,P,c,c,c,c,2,1,3,3,0,0,0,0,NA,NA,0.5,50,0,
+z535c6rqf1nu15if,252,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,1,c,c,0,1,0.45,100,NA,NA,0.5,50,0.22,
+z535c6rqrsryy31u,232,TP,TRUE,Random / Knowledge,P,c,c,c,3,c,c,c,c,0,0,0.25,55.56,NA,NA,0.5,50,0.37,show me the money lol
+z535c6rqszbqmtnn,222,TP,FALSE,Random / Knowledge,H,c,3,2,1,c,2,c,c,0,0,0.2,44.44,NA,NA,0.5,50,0,none
+z535c6rqwh6k60xy,238,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqtcnwt9b7,236,TP,TRUE,Random / Knowledge,P,2,1,2,3,c,2,c,1,0,0,0,0,NA,NA,0,0,0.9,
+z535c6rqmvywp2zh,228,TP,TRUE,Random / Knowledge,H,c,3,c,3,c,c,c,c,0,0,0.25,55.56,NA,NA,0.5,50,0.45,The instructions are a bit confusing.
+z535c6rqu94msljo,424,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqot9j403q,211,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.9,
+z535c6rqucrzqpa5,258,TP,FALSE,Random / Anonymous,H,c,3,2,3,2,2,2,1,0,0,0,0,NA,NA,0.5,50,0,
+z535c6rqdjuyhbue,424,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,1,c,c,0,1,0.15,33.33,NA,NA,0.5,50,0.22,
+z535c6rqyas4dav8,373,TP,FALSE,Choice / Knowledge,H,c,c,2,c,c,c,c,c,0,0,0.1,22.22,NA,NA,0.4,40,0,
+z535c6rq46vyjdf5,236,TP,FALSE,Random / Knowledge,P,c,c,2,1,c,c,2,c,0,0,0.15,33.33,NA,NA,0.7,70,0,
+z535c6rqv9hwqxl4,228,TP,FALSE,Random / Knowledge,H,c,c,c,1,c,c,c,c,0,0,0.2,44.44,NA,NA,0.3,30,0,
+z535c6rqk8xf5hit,247,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqcmwcn6oh,215,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,1,100,0,
+z535c6rq3jujfc4n,354,TP,FALSE,Random / Knowledge,P,c,3,c,c,c,c,c,c,0,0,0,0,NA,NA,0,0,0,no comments
+z535c6rqoqwi10k0,247,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,1,c,c,0,1,0.1,22.22,NA,NA,0,0,0,
+z535c6rqxuxw2as6,215,TP,FALSE,Random / Anonymous,P,c,3,c,c,c,c,c,c,0,0,0,0,NA,NA,0.1,10,0,
+z535c6rqz05q92hp,373,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.4,40,0.54,
+z535c6rqjgvggxkc,258,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rq0k5yli4p,354,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,1,0,1,0,0,NA,NA,0,0,0.9,
+z535c6rqkuvsrl3k,233,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,2,c,0,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rqmyi1lhhi,250,TP,FALSE,Choice / Knowledge,P,2,3,c,c,c,c,c,c,0,0,0.05,11.11,NA,NA,0.1,10,0,
+z535c6rqnrlr3b0f,377,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0.3,
+z535c6rqodn3hcts,363,TP,FALSE,Random / Anonymous,P,c,c,c,3,c,c,c,c,0,0,0.05,11.11,NA,NA,0.5,50,0,
+z535c6rq22xjkf9z,262,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,2,c,c,0,1,0,0,NA,NA,0.1,10,0.54,
+z535c6rq60mcwpjj,243,TP,TRUE,Random / Knowledge,P,c,1,c,c,1,2,c,c,0,0,0.45,100,NA,NA,0,0,0.9,
+z535c6rq29l1kdwv,250,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,1,c,c,0,1,0.1,22.22,NA,NA,0.5,50,0.45,
+z535c6rqtbntvtqa,377,TP,FALSE,Choice / Knowledge,H,c,3,c,c,c,c,c,c,0,0,0.1,22.22,NA,NA,0.3,30,0,
+z535c6rq394586jm,363,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,2,c,c,0,1,0,0,NA,NA,0,0,0.9,
+z535c6rqxu38px98,262,TP,FALSE,Random / Anonymous,H,c,3,c,c,c,1,2,3,0,0,0.2,44.44,NA,NA,0.2,20,0,
+z535c6rqaryen62v,243,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,1,0,1,0.05,11.11,NA,NA,0.5,50,0,
+z535c6rqfop4pwdl,233,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,2,c,3,0,1,0,0,NA,NA,0,0,0,
+z535c6rqyh6bfqmu,255,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rq3abl6gsy,382,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,2,c,c,0,1,0.2,44.44,NA,NA,0.5,50,0.45,Thank you for letting me participate!
+z535c6rq9swlykqx,225,TP,FALSE,Random / Anonymous,P,c,c,c,1,c,c,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqxtx39crv,336,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.4,40,0,
+z535c6rqsa4xv9yd,245,TP,FALSE,Random / Knowledge,P,c,3,c,c,1,1,3,1,0,0,0.05,11.11,NA,NA,0.3,30,0,cool survey
+z535c6rqjpss3aj1,237,TP,TRUE,Random / Knowledge,H,c,3,c,3,c,c,c,c,0,0,0,0,NA,NA,0.5,50,0.22,
+z535c6rq8358utzn,255,TP,TRUE,Choice / Knowledge,P,c,c,c,2,1,c,2,1,0,0,0.25,55.56,NA,NA,0.5,50,0.22,
+z535c6rqkdmnuc94,382,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqxb7sn6ij,336,TP,TRUE,Random / Anonymous,H,c,c,c,1,c,1,c,c,0,0,0.19,42.22,NA,NA,0.5,50,0.45,
+z535c6rqbxqgtx44,237,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,2,c,c,0,1,0.2,44.44,NA,NA,0.4,40,0,None
+z535c6rq6omyz32d,260,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.5,50,0.45,None.
+z535c6rqqy5oddgm,251,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.15,33.33,NA,NA,0.6,60,0,
+z535c6rqbsm105fx,225,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.5,50,0.45,
+z535c6rqkbmkhpvt,339,TP,TRUE,Random / Anonymous,H,c,c,c,3,c,2,3,3,0,0,0.25,55.56,NA,NA,0.5,50,0.18,
+z535c6rqp41cevss,239,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,1,0,1,0.2,44.44,NA,NA,0.5,50,0.45,
+z535c6rq0lsjdoh1,260,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.5,50,0,
+z535c6rqwl7tawv0,251,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0,0,0.9,
+z535c6rq28gannhr,230,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.3,30,0,no comments
+z535c6rqaouzr47s,239,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.5,50,0,Good luck to all players!
+z535c6rqeolh2osc,265,TP,FALSE,Choice / Knowledge,P,c,c,c,2,c,2,3,c,0,0,0.02,4.44,NA,NA,0.1,10,0,
+z535c6rq9t2tlkzo,256,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.3,30,0.63,
+z535c6rqw9cr31re,339,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.1,10,0,
+z535c6rqj5o5o7k0,245,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,2,c,1,0,1,0.05,11.11,NA,NA,0.3,30,0.63,
+z535c6rqiewtczon,265,TP,TRUE,Choice / Knowledge,P,c,1,1,c,c,2,c,c,0,0,0.05,11.11,NA,NA,0,0,0.9,
+z535c6rqi1303uam,256,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0,0,0,
+z535c6rq2lk2hpf9,230,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.1,10,0,
+z535c6rqwub78dg1,344,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.15,33.33,NA,NA,0.4,40,0,
+z535c6rquhm953py,359,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqespzsqji,415,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0,0,0,
+z535c6rq7lyambvx,268,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,1,c,c,0,1,0,0,NA,NA,0.5,50,0.15,
+z535c6rq3n7sukwv,235,TP,TRUE,Random / Anonymous,P,c,3,c,c,c,c,c,c,0,0,0,0,NA,NA,0.5,50,0.45,
+z535c6rqyevge65w,344,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.45,ty
+z535c6rqbfk2k96h,415,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,2,c,c,0,1,0.2,44.44,NA,NA,0.5,50,0.07,I never understand the purpose of these research. Are you interested on how I share things with others or are you more interested in knowing how good I am at math. These scenarios are always convolute
+z535c6rqzssttba2,444,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rq1abyx663,235,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqwyt4q533,401,TP,TRUE,Random / Anonymous,H,c,c,c,1,c,c,c,c,0,0,0.15,33.33,NA,NA,0.3,30,0.45,
+z535c6rq5lgyld9i,246,TP,FALSE,Random / Knowledge,H,c,3,c,c,c,2,c,c,0,0,0,0,NA,NA,0,0,0,Thanks!
+z535c6rqblsexjry,268,TP,FALSE,Choice / Knowledge,P,c,1,c,c,c,c,c,c,0,0,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqmq6bnx59,444,TP,FALSE,Choice / Knowledge,H,c,c,c,2,c,c,c,c,0,0,0,0,NA,NA,0,0,0,Thank you!
+z535c6rqxumiukrm,401,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,1,0,1,0.15,33.33,NA,NA,0.5,50,0,
+z535c6rqhcb0vjic,359,TP,FALSE,Random / Knowledge,P,c,1,2,c,1,1,2,c,0,0,0.25,55.56,NA,NA,0.9,90,0,
+z535c6rqqt7tz2fq,246,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.3,30,0.63,
+z535c6rqfhfsd96o,351,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqgx6dkkn0,369,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqe0w8mwzf,353,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rq9r8jbzn4,249,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,my decision in these hits is always to maximize my own earnings over another anonymous person
+z535c6rqpdsbb7ax,266,TP,FALSE,Choice / Knowledge,H,c,3,c,c,c,c,c,c,0,0,0.2,44.44,NA,NA,0.3,30,0,
+z535c6rqcb3b213z,369,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,1,0,1,0.4,88.89,NA,NA,0.5,50,0.45,
+z535c6rqskjjvhgj,353,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.6,60,0.9,
+z535c6rqy2uls4xg,253,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.5,50,0,
+z535c6rqpsnvepuw,249,TP,TRUE,Random / Knowledge,H,c,c,c,1,c,c,c,1,0,0,0.25,55.56,NA,NA,0.5,50,0.45,
+z535c6rqongdsxkp,351,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,3,c,0,1,0.25,55.56,NA,NA,0.5,50,0.45,
+z535c6rqiurshz4k,241,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqypnyzp0v,358,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqo6hh5i8h,253,TP,FALSE,Random / Knowledge,P,c,3,c,1,c,c,c,c,0,0,0,0,NA,NA,0.3,30,0,
+z535c6rqb6iqbekx,254,TP,TRUE,Random / Knowledge,H,c,c,c,1,c,c,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rq367u8bxf,356,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.05,11.11,NA,NA,0.5,50,0.22,
+z535c6rq5aatw4g9,266,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.1,10,0.54,
+z535c6rqw1fa68lh,365,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.22,
+z535c6rqm99qqz06,254,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,1,c,c,0,1,0.25,55.56,NA,NA,0.5,50,0,I thoroughly enjoyed it! Thank you!
+z535c6rqccxj1a9u,241,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.9,
+z535c6rqsxf8n5g0,358,TP,FALSE,Random / Anonymous,H,c,c,c,c,3,c,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqd1so909b,365,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.5,50,0,"This was super fun. Thank you so much, and have a great day. :)"
+z535c6rqlxmwgk58,259,TP,TRUE,Random / Knowledge,H,c,3,c,c,c,c,c,c,0,0,0.2,44.44,NA,NA,0.2,20,0.24,
+z535c6rq98wy580j,356,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,2,c,c,0,1,0.05,11.11,NA,NA,0.5,50,0,
+z535c6rqlltun7nv,269,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.5,50,0.45,Thank you
+z535c6rq4nzovfyy,244,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.45,
+z535c6rq58huac3p,259,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqmkmijp74,361,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.45,Would love to see the outcomes of this study!
+z535c6rqea6vij7q,269,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,this was fun
+z535c6rq0ejvysx5,244,TP,FALSE,Random / Anonymous,P,c,c,c,1,c,1,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqr8rxd92n,364,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,1,0,1,0,0,NA,NA,0,0,0.63,"The last question was marked incorrectly. Player 4 did participate in Game A, just not with me. THat was not clear by the wording."
+z535c6rqcud83l9c,264,TP,TRUE,Random / Knowledge,H,c,3,c,c,c,c,c,c,0,0,0.2,44.44,NA,NA,0.5,50,0.45,I have done my best to follow the instructions and answer the questions. I hope it helps the research. Thanks
+z535c6rqde1q6gme,393,TP,FALSE,Random / Anonymous,P,c,c,c,1,c,c,c,c,0,0,0,0,NA,NA,0.5,50,0,None
+z535c6rqz84xb1uv,263,TP,FALSE,Random / Knowledge,P,c,1,c,c,c,c,2,c,0,0,0.1,22.22,NA,NA,0.4,40,0,
+z535c6rq7ktkd2hc,264,TP,FALSE,Random / Knowledge,H,2,3,2,1,c,2,3,1,0,0,0.05,11.11,NA,NA,0.1,10,0,none
+z535c6rqqu6h0uqe,361,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,None.
+z535c6rqli6ef3ty,445,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqv16zn7o2,364,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqvx244ymb,367,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0,
+z535c6rqlqqq8bi6,393,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.3,
+z535c6rqscwnr63g,370,TP,FALSE,Random / Anonymous,H,3,1,2,c,c,c,3,c,0,0,0.05,11.11,NA,NA,0.3,30,0,
+z535c6rqffjefk71,263,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0.15,"Hello, nice playing with you."
+z535c6rq3ewtxv10,367,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,3,c,0,1,0,0,NA,NA,0.5,50,0,thanks
+z535c6rq5quo54s0,445,TP,TRUE,Choice / Knowledge,H,c,3,c,c,c,c,c,c,0,0,0.4,88.89,NA,NA,0.4,40,0.45,
+z535c6rq5z4icp1b,370,TP,TRUE,Random / Anonymous,H,3,3,c,c,c,c,c,c,0,0,0,0,NA,NA,0.2,20,0.45,
+z535c6rqv7a3nv60,371,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,1,0,1,0,0,NA,NA,0,0,0.3,Thank you.
+z535c6rqf1o35sv2,267,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,1,0,1,0.45,100,NA,NA,0.5,50,0.22,none
+z535c6rq1xj1rrvi,371,TP,FALSE,Random / Knowledge,P,c,c,2,c,c,c,c,c,0,0,0,0,NA,NA,0.5,50,0,"Thank you for allowing me to participate in your study! If you're happy with my work, I'm happy with my work! Feel free to email me about any additional surveys. midnightsong@gmail.com The more work I"
+z535c6rqa016juoy,267,TP,FALSE,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.21,46.67,NA,NA,0.5,50,0,
+z535c6rqhjso46wn,425,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.4,88.89,NA,NA,0.6,60,0,
+z535c6rqh8onf8j4,446,TP,FALSE,Choice / Knowledge,H,c,3,c,c,c,c,c,c,0,0,0.2,44.44,NA,NA,0.5,50,0,This is kind of exciting to wait and see how it turned out.
+z535c6rq1hlfqeqc,374,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,none thanks
+z535c6rqqxnump7g,375,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,1,0,1,0.3,66.67,NA,NA,0.5,50,0,
+z535c6rqwnj9fyr4,425,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.1,10,0,
+z535c6rqb5itskkk,446,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.5,50,0.09,Thank you and good luck on your research!
+z535c6rqjut12yco,374,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.2,44.44,NA,NA,0.5,50,0.3,No comments
+z535c6rqnda3xv7e,375,TP,TRUE,Random / Knowledge,P,c,c,c,1,c,2,c,c,0,0,0,0,NA,NA,0.2,20,0,have a good week!
+z535c6rqm41272ki,376,TP,FALSE,Choice / Knowledge,P,c,c,c,c,c,2,c,c,0,1,0,0,NA,NA,0.5,50,0,
+z535c6rqbxqxh4cl,447,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0,0,0.45,
+z535c6rqgi6ku3t2,434,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.9,
+z535c6rqoyyeiwmy,378,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.1,22.22,NA,NA,0.3,30,0,
+z535c6rqrnk4as5q,379,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.4,40,0.54,
+z535c6rqd57ehjzl,378,TP,TRUE,Random / Anonymous,H,c,3,c,1,c,c,c,c,0,0,0.25,55.56,NA,NA,0.5,50,0,"interesting game, thank you."
+z535c6rqnqi37cb9,380,TP,FALSE,Random / Knowledge,H,c,3,c,c,c,c,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqyamoshh9,376,TP,TRUE,Choice / Knowledge,P,c,1,2,2,3,2,2,1,0,0,0.3,66.67,NA,NA,0.6,60,0,Good
+z535c6rqeqoh6196,447,TP,FALSE,Choice / Knowledge,H,c,c,c,c,1,c,c,c,0,0,0.2,44.44,NA,NA,0.9,90,0,thanks
+z535c6rq1lhn280s,434,TP,FALSE,Random / Anonymous,P,c,c,c,1,c,c,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rq8qx40x44,380,TP,TRUE,Random / Knowledge,H,c,c,c,c,c,c,c,1,0,1,0.3,66.67,NA,NA,0,0,0.3,
+z535c6rqdlllg6u2,381,TP,FALSE,Choice / Knowledge,P,c,c,1,1,c,c,3,c,0,0,0.05,11.11,NA,NA,0.5,50,0,Good survey
+z535c6rqx3kmepa7,448,TP,TRUE,Choice / Knowledge,H,c,c,c,c,c,2,c,c,0,1,0.25,55.56,NA,NA,0.5,50,0.9,
+z535c6rql4l84do8,257,TP,TRUE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0.3,
+z535c6rq0ialk50c,383,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,2,c,c,0,1,0.25,55.56,NA,NA,0.4,40,0,
+z535c6rqpe5ygzq1,385,TP,FALSE,Random / Knowledge,H,c,c,c,1,c,c,c,c,0,0,0,0,NA,NA,0.1,10,0,
+z535c6rqg3rwqvrh,381,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rqvud3nref,448,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,2,2,1,0,1,0,0,NA,NA,0.2,20,0,
+z535c6rqajhu7yyh,257,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.45,100,NA,NA,0.5,50,0,
+z535c6rqtbi4m857,383,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0.15,33.33,NA,NA,0.5,50,0,"So there actually was no interaction with any other players? This was all a game of what if's? A bit confused here, but thank you for the HIT."
+z535c6rqshzk4m6o,379,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,1,0,1,0.3,66.67,NA,NA,0.5,50,0,
+z535c6rqk7fiukzs,386,TP,TRUE,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.3,30,0.63,
+z535c6rqlmg3cuqs,449,TP,TRUE,Choice / Knowledge,H,c,1,2,2,c,1,c,1,0,0,0.3,66.67,NA,NA,0.3,30,0.63,
+z535c6rqyybvmkpa,261,TP,TRUE,Random / Anonymous,P,c,c,2,c,c,c,c,c,0,0,0.01,2.22,NA,NA,0,0,0.9,
+z535c6rqar63pnet,402,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqdmriyivk,384,TP,TRUE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0.5,50,0,
+z535c6rq9w2ezwbi,386,TP,FALSE,Choice / Knowledge,P,c,3,c,c,c,c,c,c,0,0,0.05,11.11,NA,NA,0.2,20,0,
+z535c6rqab9syxnm,449,TP,FALSE,Choice / Knowledge,H,3,1,2,c,c,2,2,3,0,0,0.3,66.67,NA,NA,0.5,50,0,It was fun.Thanks
+z535c6rqx0axpri3,261,TP,FALSE,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,0.25,55.56,NA,NA,0.5,50,0,
+z535c6rqho0nbr51,384,TP,FALSE,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,0,0,NA,NA,0,0,0,
+z535c6rqilbdphxw,385,TP,TRUE,Random / Knowledge,H,c,c,c,1,c,1,2,c,0,0,0.2,44.44,NA,NA,0.5,50,0.3,
+z535c6rqczgkqlil,0,TP,FALSE,Choice / Knowledge,P,c,3,c,c,c,c,c,c,0,0,0.41,91.11,NA,NA,0.5,50,0,
+z535c6rqy34dke83,0,TP,FALSE,Choice / Knowledge,H,c,c,c,c,c,2,c,c,0,1,0.15,33.33,NA,NA,0.2,20,0,very confusing instructions
+z535c6rq8wl2jc6g,435,TP,FALSE,Random / Anonymous,P,c,c,c,1,c,c,c,c,0,0,0,0,NA,NA,0.3,30,0,
+z535c6rq44kf621i,402,TP,TRUE,Random / Anonymous,H,c,c,c,c,c,c,c,3,0,1,0,0,NA,NA,0,0,0.36,
+z535c6rq9gx8wa3c,0,TP,FALSE,Random / Knowledge,H,c,c,c,1,c,c,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rqinmrxri2,435,TP,TRUE,Random / Anonymous,P,c,c,c,1,c,c,c,c,0,0,0,0,NA,NA,0,0,0,
+z535c6rquedq2bej,0,TP,FALSE,Random / Anonymous,H,c,c,c,c,c,c,3,c,0,1,0,0,NA,NA,0.5,50,0,
+insjvsgfdaeqtj4h,1,B,NA,Random / Anonymous,P,c,1,c,c,c,c,c,c,0,0,NA,NA,0.1,33.33,NA,NA,0.35,Thanks for the HIT!  I did my best and hope the data is useful!
+insjvsgfz3wewld7,2,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.38,
+insjvsgfgvnby7qx,3,B,NA,Random / Knowledge,H,c,c,c,1,c,c,c,3,0,0,NA,NA,0.17,56.67,NA,NA,0.33,
+insjvsgfh76c211c,4,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfd11mdkin,5,B,NA,Choice / Knowledge,H,c,3,1,2,3,c,c,3,0,0,NA,NA,0,0,NA,NA,0.3,
+insjvsgf2lz4tnry,6,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfo8gauiq2,7,B,NA,Random / Knowledge,H,c,c,1,3,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.18,
+insjvsgfv2co0rry,8,B,NA,Random / Anonymous,P,c,c,c,1,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,none
+insjvsgf27win8f3,9,B,NA,Random / Knowledge,H,c,c,c,c,c,c,2,c,0,1,NA,NA,0.3,100,NA,NA,0,
+insjvsgfrz67qfg6,10,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,2,3,0,1,NA,NA,0.05,16.67,NA,NA,0.25,Thank You
+insjvsgflwdxv92a,11,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgf2ldocqny,12,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfbalj7fob,13,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfpanijwom,14,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.24,
+insjvsgf0kr1suqp,15,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfchv0pxnw,16,B,NA,Random / Knowledge,H,c,3,c,c,1,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,I would curious if this was real.
+insjvsgfcj1430z0,17,B,NA,Choice / Knowledge,P,c,c,c,2,c,3,c,c,0,0,NA,NA,0,0,NA,NA,0.3,
+insjvsgfpwwdzr1a,18,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfbw6mhbzr,19,B,NA,Random / Anonymous,H,c,c,c,1,c,c,c,c,0,0,NA,NA,0.1,33.33,NA,NA,0.2,
+insjvsgfjcsizyeg,20,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfrp032bu9,21,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgflk41h0q5,22,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+insjvsgfkwg4tsbg,23,B,NA,Random / Anonymous,P,c,c,c,1,c,c,c,c,0,0,NA,NA,0.06,20,NA,NA,0.33,
+insjvsgftkmivid7,24,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.09,
+insjvsgfrhmuqxmz,25,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,3,0,1,NA,NA,0.3,100,NA,NA,0.18,
+insjvsgf4ny5wpq1,26,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.09,
+insjvsgf2lcbrgyp,27,B,NA,Random / Anonymous,P,c,c,c,c,3,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0,
+insjvsgf50u7h7ou,28,B,NA,Random / Anonymous,H,c,c,2,c,c,c,c,c,0,0,NA,NA,0.15,50,NA,NA,0.2,I should have kept my bonus.
+insjvsgf8ew6u9ro,29,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+insjvsgfquoo7hib,30,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.27,I should've kept my money.  That's what you get for trying to be fair.
+insjvsgf6eiqyq23,31,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgf0n7y2qta,32,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfl9r2baxs,33,B,NA,Random / Knowledge,P,c,c,c,c,1,c,1,c,0,0,NA,NA,0.3,100,NA,NA,0.09,
+insjvsgfd5vraby4,34,B,NA,Choice / Knowledge,P,c,c,c,c,1,c,2,c,0,0,NA,NA,0.15,50,NA,NA,0.38,
+insjvsgf8wob2jk2,35,B,NA,Random / Anonymous,H,c,c,c,c,c,c,2,c,0,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfud8k2bqx,36,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgf8fw2g8p1,37,B,NA,Choice / Knowledge,P,c,c,c,2,1,c,c,c,0,0,NA,NA,0,0,NA,NA,0.3,
+insjvsgf70xou3kv,38,B,NA,Choice / Knowledge,H,c,1,c,1,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.36,
+insjvsgfne97nxct,39,B,NA,Random / Anonymous,P,c,1,c,c,c,2,c,c,0,0,NA,NA,0.16,53.33,NA,NA,0.14,
+insjvsgftvbnx0qt,40,B,NA,Random / Anonymous,H,c,c,c,c,c,c,2,c,0,1,NA,NA,0.1,33.33,NA,NA,0.29,
+insjvsgfctkjkoyj,41,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.18,
+insjvsgfc2wyob9r,42,B,NA,Choice / Knowledge,P,c,c,c,1,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfsoku24fs,43,B,NA,Random / Anonymous,H,c,3,c,c,c,c,c,c,0,0,NA,NA,0,0,NA,NA,0.3,
+insjvsgftrm731h5,44,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfhvvfccph,45,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfjw0cyy9y,46,B,NA,Choice / Knowledge,P,c,c,c,c,c,2,c,c,0,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfnfhehn80,47,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.1,33.33,NA,NA,0.32,
+insjvsgfw1pulhyb,48,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,I don't believe this was a real person.
+insjvsgfl55nthpr,49,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgf9cg2y972,50,B,NA,Choice / Knowledge,H,2,1,2,c,c,3,c,2,0,0,NA,NA,0,0,NA,NA,0.3,I enjoyed the survey
+insjvsgfsrf3vj5i,51,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.4,
+insjvsgf13ka7k19,52,B,NA,Random / Knowledge,P,c,c,c,c,c,2,c,c,0,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfvyumrcus,53,B,NA,Choice / Knowledge,P,c,1,c,c,c,3,c,c,0,0,NA,NA,0,0,NA,NA,0.3,
+insjvsgfbqm4sz5s,54,B,NA,Random / Anonymous,P,c,1,2,c,2,3,c,c,0,0,NA,NA,0.12,40,NA,NA,0.36,n/a
+insjvsgfhd8859pd,55,B,NA,Random / Anonymous,H,c,c,c,3,c,c,2,c,0,0,NA,NA,0,0,NA,NA,0.3,thanks
+insjvsgf8sgctht3,56,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgf37smc979,57,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.27,The instructions are clear.
+insjvsgfqumbb4fy,58,B,NA,Random / Knowledge,P,c,c,c,c,1,c,c,c,0,0,NA,NA,0,0,NA,NA,0.3,
+insjvsgfzqn6vaya,59,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfc23ftpr2,60,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.46,
+insjvsgfx50d9be2,61,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.25,83.33,NA,NA,0.43,
+insjvsgff4fepliw,62,B,NA,Random / Anonymous,H,2,c,c,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0,
+insjvsgfu4hkhc28,63,B,NA,Random / Knowledge,H,c,1,c,c,c,2,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfxy3r0dr5,64,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.1,33.33,NA,NA,0.32,
+insjvsgfu7mzfvxs,65,B,NA,Random / Anonymous,H,c,c,c,1,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgf4vq02dqj,66,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.54,
+insjvsgfgc5gke3v,67,B,NA,Choice / Knowledge,H,c,c,c,1,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.72,
+insjvsgfkbhk6y4s,68,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.4,
+insjvsgfh00r5czj,69,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfn10g9wyu,70,B,NA,Random / Knowledge,P,c,c,c,c,c,c,2,c,0,1,NA,NA,0.01,3.33,NA,NA,0.31,"great hit, thanks"
+insjvsgfc6zdjo09,71,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.7,
+insjvsgfldxc00i2,72,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfb68hud5d,73,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.4,
+insjvsgfik4puv4l,74,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgf84cgwqon,75,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.09,lol some people. thank you!
+insjvsgfnf0nk9ds,76,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfw9shmh4s,77,B,NA,Choice / Knowledge,P,c,c,c,c,c,2,c,c,0,1,NA,NA,0.25,83.33,NA,NA,0.05,
+insjvsgfwtx6xwvb,78,B,NA,Choice / Knowledge,H,c,3,2,2,c,c,c,c,0,0,NA,NA,0.15,50,NA,NA,0.38,Fun survey
+insjvsgf6w7pufin,79,B,NA,Random / Anonymous,P,c,1,c,c,c,2,c,c,0,0,NA,NA,0.2,66.67,NA,NA,0.22,
+insjvsgfhvwhpogt,80,B,NA,Random / Anonymous,H,c,c,c,1,2,2,c,c,0,0,NA,NA,0.15,50,NA,NA,0.38,
+insjvsgfme8ib8r2,81,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.4,
+insjvsgf4j5nsxu8,82,B,NA,Choice / Knowledge,P,c,c,2,2,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0,
+insjvsgfzy8ndttu,83,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.27,Thank you
+insjvsgf0i2ly8zu,84,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,I had too little information on Player 3 to feel comfortable on my opinion of that player's motives.
+insjvsgffmyzzpaz,85,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,3,0,1,NA,NA,0.15,50,NA,NA,0.24,
+insjvsgf3kuyu32g,86,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.18,
+insjvsgfzxndpeah,87,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.09,
+insjvsgfccqqmq6x,88,B,NA,Choice / Knowledge,P,c,3,c,c,c,c,c,c,0,0,NA,NA,0.1,33.33,NA,NA,0.35,N/A
+insjvsgf4ywzs6cs,89,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfpjr4hg49,90,B,NA,Random / Knowledge,H,c,3,c,1,1,c,c,3,0,0,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgf0hf957qx,91,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.4,
+insjvsgfnffkovio,92,B,NA,Choice / Knowledge,H,c,c,1,2,3,c,c,2,0,0,NA,NA,0.01,3.33,NA,NA,0.3,
+insjvsgfd2kd2x0e,93,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+insjvsgf3w530p7g,94,B,NA,Random / Anonymous,H,c,c,2,c,3,2,2,c,0,0,NA,NA,0.01,3.33,NA,NA,0.31,
+insjvsgfp2jf4ewj,95,B,NA,Random / Knowledge,P,c,c,c,1,c,c,c,c,0,0,NA,NA,0.15,50,NA,NA,0.15,
+insjvsgfvijmn5ib,96,B,NA,Choice / Knowledge,P,c,1,c,c,c,2,c,2,0,0,NA,NA,0.1,33.33,NA,NA,0.35,
+insjvsgf85hhgasr,97,B,NA,Random / Anonymous,P,c,1,c,c,c,c,2,c,0,0,NA,NA,0.1,33.33,NA,NA,0.32,
+insjvsgfhtvhvjid,98,B,NA,Random / Anonymous,H,c,c,c,1,c,c,c,c,0,0,NA,NA,0,0,NA,NA,0.3,
+insjvsgf09bit5q1,99,B,NA,Random / Anonymous,P,c,c,c,c,c,c,2,c,0,1,NA,NA,0.3,100,NA,NA,0.36,
+insjvsgf7xnhddey,100,B,NA,Random / Anonymous,H,c,3,c,c,c,c,c,c,0,0,NA,NA,0.05,16.67,NA,NA,0.33,
+insjvsgf4zp9wykp,101,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.18,Not too bad. Better for player 3 than me.
+insjvsgfrdrw9c4e,102,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.16,none
+insjvsgfzcrwxvdp,103,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfx3m0vlbj,104,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.28,
+insjvsgf9tadfpmt,105,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgf3momptnq,106,B,NA,Random / Knowledge,H,c,3,c,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.27,
+insjvsgfckfmke7b,107,B,NA,Choice / Knowledge,P,c,c,c,1,c,c,1,c,0,0,NA,NA,0,0,NA,NA,0.3,
+insjvsgf46tmnblt,108,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.1,
+insjvsgfl7kpgmik,109,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.27,
+insjvsgf265ribce,110,B,NA,Random / Anonymous,H,c,c,c,c,c,2,c,c,0,1,NA,NA,0.3,100,NA,NA,0,Happy to participate!!
+insjvsgfd4rdp461,111,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.07,23.33,NA,NA,0.34,thank you
+insjvsgfurbekfjh,112,B,NA,Choice / Knowledge,P,c,3,c,c,c,c,2,c,0,0,NA,NA,0,0,NA,NA,0.3,
+insjvsgfn7xxw849,113,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,Thanks!
+insjvsgfzsk6fske,114,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,There's a typo or two on the first page.
+insjvsgfy0656rk9,115,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+insjvsgftsqys4tc,116,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.27,
+insjvsgfh0xbpfwn,117,B,NA,Choice / Knowledge,H,c,c,c,1,c,c,1,c,0,0,NA,NA,0,0,NA,NA,0.3,
+insjvsgfh4ith1l7,118,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfasxm9e3d,119,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+insjvsgflbn05n6o,120,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.34,God Bless.
+insjvsgf0rpa2q9k,121,B,NA,Choice / Knowledge,P,c,3,2,1,1,2,c,2,0,0,NA,NA,0.12,40,NA,NA,0.36,
+insjvsgf74o6mm33,122,B,NA,Random / Knowledge,P,c,3,c,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0,
+insjvsgfvwtozjpn,123,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfgdzp1djf,124,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.38,
+insjvsgfle0g7y9h,125,B,NA,Choice / Knowledge,H,c,1,c,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgf2xq8qg19,126,B,NA,Random / Anonymous,P,c,c,c,c,c,2,1,c,0,1,NA,NA,0.3,100,NA,NA,0,
+insjvsgf9jbpc27p,127,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,None
+insjvsgfck62i3j3,128,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfdr7l44x8,129,B,NA,Choice / Knowledge,H,c,3,2,c,c,c,c,c,0,0,NA,NA,0.29,96.67,NA,NA,0.01,Wow
+insjvsgfp5wuz5y2,130,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgf0ii5qil8,131,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfjvhjn409,132,B,NA,Random / Knowledge,H,c,c,c,1,c,c,1,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfk2bnb3rt,133,B,NA,Choice / Knowledge,P,c,c,c,1,c,c,c,c,0,0,NA,NA,0,0,NA,NA,0.3,
+insjvsgfsywecunk,134,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,3,0,1,NA,NA,0.2,66.67,NA,NA,0.34,
+insjvsgfzy1lwztt,135,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.1,33.33,NA,NA,0.35,fun thanks!
+insjvsgfpdfb38ez,136,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgf0fnzy1xs,137,B,NA,Choice / Knowledge,P,c,c,c,1,c,c,c,c,0,0,NA,NA,0.1,33.33,NA,NA,0.2,
+insjvsgfth4qc6r6,138,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgf2qrjhvrr,139,B,NA,Random / Anonymous,H,c,c,c,1,c,c,c,c,0,0,NA,NA,0,0,NA,NA,0.3,That was fun.
+insjvsgfi0dyjpnp,140,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfsuxhue5h,141,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.28,
+insjvsgfhjd0nhnh,142,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+insjvsgftbdwj0uh,143,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.4,Player 3 is very fair - much appreciated. 
+insjvsgfhqu1wkji,144,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.27,
+insjvsgfmq2vzvy1,145,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.34,
+insjvsgfhkahhhr1,146,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.1,33.33,NA,NA,0.29,
+insjvsgf5m1gehpa,147,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgf4gmjowjw,148,B,NA,Random / Anonymous,P,c,c,c,c,c,3,c,c,0,1,NA,NA,0.1,33.33,NA,NA,0.35,thank you
+insjvsgfjrce5jmz,149,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,Trust is a beautiful thing
+insjvsgfqb3ss1az,150,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.38,
+insjvsgfja0nmvo4,151,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfxr8j0f28,152,B,NA,Choice / Knowledge,P,c,c,c,c,c,2,c,c,0,1,NA,NA,0.2,66.67,NA,NA,0.1,
+insjvsgf73sqfywf,153,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.28,
+insjvsgfgplmzgg2,154,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfq54cu06v,155,B,NA,Random / Knowledge,H,c,c,c,c,c,2,c,c,0,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgf3874umpc,156,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfr9akeqkk,157,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.1,33.33,NA,NA,0.2,Thanks
+insjvsgfzaayhbhu,158,B,NA,Random / Anonymous,H,c,3,c,c,c,3,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfivjdlvz1,159,B,NA,Random / Knowledge,P,c,c,c,c,c,2,c,2,0,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgf338d7cn0,160,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgffxqekrd0,161,B,NA,Choice / Knowledge,H,c,c,c,2,c,c,1,c,0,0,NA,NA,0.3,100,NA,NA,0.36,
+insjvsgftstckg30,162,B,NA,Random / Anonymous,P,c,c,c,c,2,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.27,
+insjvsgfnsrhcnd9,163,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.24,none
+insjvsgfya0ucl4k,164,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,no comments
+insjvsgf9zzi0t8v,165,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.05,16.67,NA,NA,0.33,
+insjvsgfkwo4fb7w,166,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+insjvsgf17f7xms7,167,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,no comments
+insjvsgf7ga4k2f7,168,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgf8drlkl2k,169,B,NA,Choice / Knowledge,H,c,3,c,c,c,c,c,c,0,0,NA,NA,0.1,33.33,NA,NA,0.32,
+insjvsgfuag8c7yf,170,B,NA,Random / Anonymous,H,c,c,c,1,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0,
+insjvsgfg256mfhk,171,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.4,
+insjvsgf2nrivzfb,172,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,Thanks
+insjvsgfk5672mx2,173,B,NA,Choice / Knowledge,H,c,1,c,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgf0k0bdbci,174,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.38,
+insjvsgfgbfsmx7u,175,B,NA,Random / Anonymous,H,c,c,c,c,c,c,1,c,0,1,NA,NA,0,0,NA,NA,0.3,No comment.
+insjvsgfvb80809z,176,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfnzwso2n7,177,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.27,
+insjvsgfrykngc5u,178,B,NA,Random / Knowledge,P,c,c,c,c,1,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,yippee
+insjvsgf2jsdbyet,179,B,NA,Choice / Knowledge,P,c,c,2,2,3,2,1,2,0,0,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfa4i6lxpk,180,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+insjvsgf1sh185v0,181,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.38,
+insjvsgfjy2nzdho,182,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.24,
+insjvsgf8v1ssrqp,183,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.34,everything was okay
+insjvsgfragfl3rk,184,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgffb8kml76,185,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.1,33.33,NA,NA,0.23,liked it
+insjvsgf7onvnkpr,186,B,NA,Random / Anonymous,H,c,c,1,c,c,3,1,2,0,0,NA,NA,0.06,20,NA,NA,0.31,
+insjvsgfv7l33qlj,187,B,NA,Choice / Knowledge,P,c,c,c,1,c,c,c,c,0,0,NA,NA,0.2,66.67,NA,NA,0.4,thank you
+insjvsgfsk7pvs0i,188,B,NA,Random / Anonymous,H,c,c,c,c,c,c,2,c,0,1,NA,NA,0.15,50,NA,NA,0.24,
+insjvsgfpyt3s54x,189,B,NA,Random / Knowledge,H,c,3,c,c,c,c,c,c,0,0,NA,NA,0,0,NA,NA,0.3,
+insjvsgf169pp1uh,190,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.38,"In the equation above, you state the fraction returned (.5) is multiplied by the amount received by player 3 (.15 x 3).  In actuality I received back .5 times the amount sent to player 3 (15)"
+insjvsgfnriet2oh,191,B,NA,Random / Anonymous,H,c,c,c,c,c,c,2,c,0,1,NA,NA,0.1,33.33,NA,NA,0.35,
+insjvsgflnndjp31,192,B,NA,Random / Knowledge,P,c,c,2,c,c,c,2,3,0,0,NA,NA,0.03,10,NA,NA,0.27,
+insjvsgfdf4hxvhb,193,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.18,
+insjvsgfay1w8vpp,194,B,NA,Random / Knowledge,P,c,c,c,1,1,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgf4poi6oj7,195,B,NA,Random / Knowledge,H,2,1,2,3,c,c,2,3,0,0,NA,NA,0.04,13.33,NA,NA,0.26,
+insjvsgfzjxespeh,196,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgftfq1rgng,197,B,NA,Choice / Knowledge,H,c,c,c,1,c,c,2,c,0,0,NA,NA,0.3,100,NA,NA,0,
+insjvsgff3zo5gxz,198,B,NA,Random / Anonymous,P,c,1,c,1,c,c,c,c,0,0,NA,NA,0.15,50,NA,NA,0.2,
+insjvsgf0fuj4zcx,199,B,NA,Random / Anonymous,H,c,c,c,3,2,c,c,c,0,0,NA,NA,0,0,NA,NA,0.3,
+insjvsgfq1gemw6f,200,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgf5nxqc198,201,B,NA,Random / Knowledge,P,c,c,c,c,c,c,2,c,0,1,NA,NA,0,0,NA,NA,0.3,none
+insjvsgf73r44a4m,202,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.15,
+insjvsgfx9i3z93o,203,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfyfrtqhzf,204,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.27,Thanks.
+insjvsgfwmycu4xz,205,B,NA,Choice / Knowledge,P,c,c,2,c,c,c,c,c,0,0,NA,NA,0,0,NA,NA,0.3,
+insjvsgf1hrblo3l,206,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.9,
+insjvsgf4mtrj0mu,207,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+insjvsgf8hbp14jo,208,B,NA,Random / Anonymous,H,c,c,1,1,c,c,c,c,0,0,NA,NA,0.15,50,NA,NA,0.15,
+insjvsgfw1i0xd3v,209,B,NA,Random / Knowledge,H,c,3,c,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,Fun and a little different!
+insjvsgfh4wjwr72,210,B,NA,Choice / Knowledge,P,c,c,c,c,c,3,c,c,0,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgf6fek42fm,211,B,NA,Random / Anonymous,P,c,c,c,c,c,c,1,c,0,1,NA,NA,0.3,100,NA,NA,0,That was mean :(
+insjvsgfyiao26k4,212,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.1,33.33,NA,NA,0.35,
+insjvsgf63my1dvw,213,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfy37buy8m,214,B,NA,Choice / Knowledge,H,c,1,c,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.54,
+insjvsgf0bt3lwwm,215,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,3,0,1,NA,NA,0.15,50,NA,NA,0.6,Nice!
+insjvsgf387u1bkw,216,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.11,36.67,NA,NA,0.22,
+insjvsgf6f7lfwy9,217,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.34,Thank you for the chance to participate. 
+insjvsgfi3a0o6tx,218,B,NA,Choice / Knowledge,P,c,c,c,2,1,c,c,c,0,0,NA,NA,0.1,33.33,NA,NA,0.35,
+insjvsgf620kwhmw,219,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,Thank you
+insjvsgfazifokm9,220,B,NA,Random / Anonymous,H,c,c,c,1,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.09,
+insjvsgfdhyfvg3j,221,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfczqosbdg,222,B,NA,Random / Knowledge,H,c,c,c,c,c,c,2,c,0,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfgljczhqc,223,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,Thank you!
+insjvsgfw4bldil2,224,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.38,
+insjvsgfezkavcap,225,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgf3uaa0upb,226,B,NA,Random / Anonymous,H,c,c,c,1,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,Nice! Thanks for the hit.
+insjvsgfyvxd8jbq,227,B,NA,Random / Knowledge,P,c,c,c,c,1,c,c,c,0,0,NA,NA,0.15,50,NA,NA,0.15,
+insjvsgf68trco8t,228,B,NA,Random / Knowledge,H,c,c,c,c,1,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfly29yh56,229,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.1,33.33,NA,NA,0.35,
+insjvsgfxdg0msq4,230,B,NA,Random / Anonymous,P,c,c,c,c,2,c,1,c,0,0,NA,NA,0,0,NA,NA,0.3,
+insjvsgfu034irzr,231,B,NA,Random / Anonymous,H,c,c,1,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfyud71s8c,232,B,NA,Random / Knowledge,P,c,3,c,c,1,c,c,3,0,0,NA,NA,0.25,83.33,NA,NA,0.43,Interesting.
+insjvsgfebxlz980,233,B,NA,Random / Knowledge,H,c,3,c,c,c,c,2,c,0,0,NA,NA,0,0,NA,NA,0.3,
+insjvsgfg5c85ocb,234,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.28,
+insjvsgfkhe7sd96,235,B,NA,Random / Anonymous,P,c,3,c,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,Thanks for the opportunity to participate; good luck with your research!
+insjvsgfx9y4ist1,236,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,Everything was good and worked well.
+insjvsgflc2ngozk,237,B,NA,Random / Knowledge,H,c,c,1,c,c,c,c,c,0,0,NA,NA,0.15,50,NA,NA,0.38,
+insjvsgfvh2phr9q,238,B,NA,Choice / Knowledge,H,c,1,c,c,c,c,c,c,0,0,NA,NA,0.2,66.67,NA,NA,0.4,
+insjvsgfjl43pnf0,239,B,NA,Random / Knowledge,H,c,3,c,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgf0dpqmfj4,240,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,1,c,0,1,NA,NA,0.05,16.67,NA,NA,0.33,
+insjvsgfo38999tm,241,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,Thank you for this opportunity to participate in your study. Good luck with your research. 
+insjvsgfg1y6pmv7,242,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.1,33.33,NA,NA,0.32,
+insjvsgf5g7vx7hz,243,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+insjvsgflsbria75,244,B,NA,Random / Anonymous,P,c,c,c,c,c,2,c,2,0,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfxzt81i01,245,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.27,
+insjvsgf3vv2b2y3,246,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.27,
+insjvsgfohtq2k4o,247,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfj59xnafl,248,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,3,0,1,NA,NA,0.15,50,NA,NA,0.28,
+insjvsgf3t3hhr8f,249,B,NA,Random / Knowledge,H,c,1,c,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgf1ureve3d,250,B,NA,Choice / Knowledge,P,c,1,c,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfb37cezjl,251,B,NA,Choice / Knowledge,H,c,c,c,1,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0,
+insjvsgfs71kszx0,252,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.38,
+insjvsgf1w4hyqm2,253,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgf93jx61lh,254,B,NA,Random / Knowledge,H,c,c,c,c,1,c,1,2,0,0,NA,NA,0,0,NA,NA,0.3,
+insjvsgfjb1nklp5,255,B,NA,Choice / Knowledge,P,c,1,c,1,c,3,c,c,0,0,NA,NA,0.15,50,NA,NA,0.38,Interesting task! I liked the idea of this game.
+insjvsgfhxgfjst5,256,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.27,that was not very nice
+insjvsgfyqe1ysjv,257,B,NA,Random / Anonymous,P,c,c,c,c,c,2,c,c,0,1,NA,NA,0.1,33.33,NA,NA,0.2,
+insjvsgfutsbjn1e,258,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+insjvsgfw3cd4uy0,259,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.1,33.33,NA,NA,0.26,
+insjvsgfurgfwz1k,260,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+insjvsgfltwig08t,261,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,Boo! Just kidding. Thank you; live and learn.
+insjvsgf0f6mlczn,262,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.16,
+insjvsgfexbufhqb,263,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.1,33.33,NA,NA,0.35,
+insjvsgfa9iuen99,264,B,NA,Random / Knowledge,H,c,3,c,c,c,2,c,3,0,0,NA,NA,0.3,100,NA,NA,0.45,That was fun thank you for the opportunity.
+insjvsgfnjugjc6z,265,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,"I guess I am very gullible.  I foolishly believed that if I sent the .90 to player 3, player 3 would return 50% of that amount.  And we would both earn more.  But player 3 had a different perspective."
+insjvsgfti2sz5sq,266,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.16,
+insjvsgf6om8ujsr,267,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.38,That was a fun game.
+insjvsgfst3yb5gp,268,B,NA,Choice / Knowledge,P,c,3,c,1,c,c,c,c,0,0,NA,NA,0.1,33.33,NA,NA,0.35,I was trusting that he would return half :)
+insjvsgfzmaos3t1,269,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,thank you!
+yf55bv4z2x8xtrlr,270,B,NA,Random / Anonymous,P,2,c,c,c,2,2,c,2,0,0,NA,NA,0.15,50,NA,NA,0.38,
+3o3rqdqpi4z58hzi,271,B,NA,Random / Anonymous,H,c,c,1,c,c,c,1,c,0,0,NA,NA,0.2,66.67,NA,NA,0.1,
+3o3rqdqp8qy2btw8,272,B,NA,Random / Knowledge,H,c,c,c,c,1,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0,
+3o3rqdqpjpbp3y1p,273,B,NA,Choice / Knowledge,P,c,c,c,c,1,c,c,c,0,0,NA,NA,0.1,33.33,NA,NA,0.35,
+3o3rqdqp0wq1v2qn,274,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+3o3rqdqpqlx9qu5w,275,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+3o3rqdqpoofz20os,276,B,NA,Random / Anonymous,H,c,1,c,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+3o3rqdqp0ee9p6rw,277,B,NA,Choice / Knowledge,P,c,c,c,1,c,c,c,c,0,0,NA,NA,0.1,33.33,NA,NA,0.2,Very interesting study.
+3o3rqdqp25apen1s,278,B,NA,Choice / Knowledge,H,c,3,1,c,c,c,c,2,0,0,NA,NA,0.3,100,NA,NA,0.45,Awesome!
+3o3rqdqpm7caja7f,279,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,"Ugh i should have sent more, good luck!"
+3o3rqdqp88klnk57,280,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,N/A
+3o3rqdqpjin5ks8r,281,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqpiyfun22n,282,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.2,
+3o3rqdqpdy0346wn,283,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.36,Good luck with your research.
+3o3rqdqpkdonew6b,284,B,NA,Random / Knowledge,P,c,c,2,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+3o3rqdqpircq46g3,285,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+3o3rqdqpdsfeg3jy,286,B,NA,Random / Anonymous,H,c,c,c,1,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0,
+3o3rqdqpedeask3r,287,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.36,
+3o3rqdqpm2cmr9c5,288,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.4,Thank you!
+3o3rqdqpay5fxwql,289,B,NA,Random / Anonymous,H,c,c,c,c,c,2,c,c,0,1,NA,NA,0.3,100,NA,NA,0.18,
+3o3rqdqpfw1rmk7l,290,B,NA,Random / Knowledge,P,c,c,2,c,c,2,2,c,0,0,NA,NA,0.14,46.67,NA,NA,0.16,
+3o3rqdqph3dwu5ie,291,B,NA,Choice / Knowledge,H,c,c,c,c,c,2,1,c,0,1,NA,NA,0.15,50,NA,NA,0.38,Thanks!
+3o3rqdqpfvsfcbmi,292,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqp2ikopyy5,293,B,NA,Random / Anonymous,H,c,c,2,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+3o3rqdqp7hxlt6on,294,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+3o3rqdqpwrszf1tf,295,B,NA,Choice / Knowledge,H,c,c,c,1,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+3o3rqdqp7jahtpze,296,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,3,0,1,NA,NA,0.1,33.33,NA,NA,0.2,What a jerk
+3o3rqdqplulg7be0,297,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+3o3rqdqptpa7g1cl,298,B,NA,Choice / Knowledge,P,c,c,c,2,1,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.27,
+3o3rqdqphlcaxrez,299,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.28,Great game!
+3o3rqdqpa8y5byai,300,B,NA,Random / Anonymous,P,c,1,c,1,2,3,c,c,0,0,NA,NA,0.15,50,NA,NA,0.15,
+3o3rqdqpfbg2bwqw,301,B,NA,Random / Knowledge,H,c,1,c,c,c,c,c,3,0,0,NA,NA,0.3,100,NA,NA,0.45,
+3o3rqdqp0f4n3d8f,302,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.17,56.67,NA,NA,0.13,
+3o3rqdqp03ay660r,303,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.38,
+3o3rqdqpqi34inux,304,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.1,33.33,NA,NA,0.29,
+3o3rqdqpg7evbope,305,B,NA,Random / Knowledge,P,c,c,c,c,c,2,c,c,0,1,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqp7rd1ebrq,306,B,NA,Choice / Knowledge,P,c,c,c,2,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+3o3rqdqpo4yzkk55,307,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,no comments
+3o3rqdqp2te65sof,308,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.1,33.33,NA,NA,0.32,
+3o3rqdqp1oatc72i,309,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqpwnnr5mnm,310,B,NA,Random / Knowledge,H,c,c,c,c,c,c,2,c,0,1,NA,NA,0,0,NA,NA,0.3,"At the top of the page it told me I was matched with player 3 who donated 40 cents, then at the bottom it said I was matched with the person who gave 0. Pretty confusing."
+3o3rqdqp4asfpfch,311,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.1,33.33,NA,NA,0.2,
+3o3rqdqpluse29se,312,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.36,No comment
+3o3rqdqpayyh0g3a,313,B,NA,Random / Anonymous,H,c,c,c,c,c,c,2,c,0,1,NA,NA,0.05,16.67,NA,NA,0.29,
+3o3rqdqp0nud52tc,314,B,NA,Random / Knowledge,P,c,1,c,c,c,c,c,c,0,0,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqpnova5254,315,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,"The experiment contains an error. It first says that the randomly selected Player 3 contributed 0.15 out of 0.45 in the first game, then further down the page say it is the 0.25 out of 0.45 Player 3."
+3o3rqdqprvy65qkw,316,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.25,83.33,NA,NA,0.43,
+3o3rqdqpywlgeyzy,317,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqpre3jvsue,318,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.25,83.33,NA,NA,0.43,
+3o3rqdqp7ypehrqw,319,B,NA,Random / Knowledge,H,c,3,c,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+3o3rqdqpl7nwt8ok,320,B,NA,Random / Anonymous,P,c,1,c,c,c,c,c,c,0,0,NA,NA,0.1,33.33,NA,NA,0.35,Thanks!
+3o3rqdqp6i6afkdr,321,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.36,
+3o3rqdqpfy69noyq,322,B,NA,Random / Knowledge,P,c,1,c,1,3,2,c,2,0,0,NA,NA,0.13,43.33,NA,NA,0.37,
+3o3rqdqp4aopr5c2,323,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.05,16.67,NA,NA,0.33,
+3o3rqdqpxsvopq9a,324,B,NA,Choice / Knowledge,H,c,c,c,c,c,2,c,c,0,1,NA,NA,0.3,100,NA,NA,0.27,
+3o3rqdqphz3n3c4b,325,B,NA,Random / Knowledge,P,c,c,c,c,c,c,2,c,0,1,NA,NA,0.15,50,NA,NA,0.24,
+3o3rqdqpntkc29z1,326,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.33,
+3o3rqdqp4gr42dhx,327,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.36,
+3o3rqdqp0y9o62db,328,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+3o3rqdqp2levradd,329,B,NA,Random / Knowledge,P,c,c,2,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0,
+3o3rqdqp1b8qmcu6,330,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.09,
+3o3rqdqpyzoriief,331,B,NA,Choice / Knowledge,H,c,1,1,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,That was interesting!
+3o3rqdqpdd14fe9s,332,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.36,fun hit!
+3o3rqdqpskhip6b3,333,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+3o3rqdqp8pom0lpt,334,B,NA,Random / Knowledge,P,c,c,c,1,c,c,1,c,0,0,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqps8awas8w,335,B,NA,Choice / Knowledge,P,c,1,c,2,1,c,1,2,0,0,NA,NA,0.1,33.33,NA,NA,0.35,
+3o3rqdqpmjmw7zay,336,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+3o3rqdqpvxw0hxfd,337,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,None
+3o3rqdqpx45qw2dc,338,B,NA,Choice / Knowledge,P,c,3,c,1,c,2,c,c,0,0,NA,NA,0.2,66.67,NA,NA,0.34,
+3o3rqdqp9biu4wmg,339,B,NA,Random / Anonymous,H,c,c,c,c,2,c,c,3,0,0,NA,NA,0.1,33.33,NA,NA,0.32,
+3o3rqdqpz1kct54b,340,B,NA,Random / Knowledge,P,c,c,c,c,1,c,c,c,0,0,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqp2m8kompc,341,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+3o3rqdqpoy1fdigp,342,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,2,c,0,1,NA,NA,0.3,100,NA,NA,0.9,thanks
+3o3rqdqpamncnmo5,343,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.18,
+3o3rqdqps7esa1xz,344,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,I was going on the trust system with Player 3
+3o3rqdqpw38ciast,345,B,NA,Random / Knowledge,P,c,3,c,c,c,c,c,2,0,0,NA,NA,0.3,100,NA,NA,0.45,simple
+3o3rqdqp0jvgf3jz,346,B,NA,Random / Knowledge,H,2,1,2,c,c,2,c,c,0,0,NA,NA,0.25,83.33,NA,NA,0.43,Fun!
+3o3rqdqpqeqat4xj,347,B,NA,Choice / Knowledge,H,c,c,c,2,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+3o3rqdqpgguig3dt,348,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqpx71r6699,349,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqpncnce5td,350,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqpkmwb71dv,351,B,NA,Choice / Knowledge,P,c,c,c,2,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,good ol' player 3:-)
+3o3rqdqp0n0uqa6m,352,B,NA,Choice / Knowledge,H,c,3,c,c,c,c,c,c,0,0,NA,NA,0.05,16.67,NA,NA,0.28,I really enjoyed taking this survey.
+3o3rqdqpskyq8we6,353,B,NA,Random / Anonymous,H,c,c,c,1,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0,"Player 1 can choose one of two options: FAIR share : Keep $0.25 and give $0.25 to Player 2. UNFAIR share : Keep and give $0.05 to Player 2.""  either you left out the amount, or""Keep and give""  ambiguo"
+3o3rqdqpipo3fvz8,354,B,NA,Random / Knowledge,P,c,c,2,c,1,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0,I took a chance that Player 3 would be fair but I was wrong and overestimated them.
+3o3rqdqp3mk182ph,355,B,NA,Random / Knowledge,H,c,3,c,c,c,c,c,c,0,0,NA,NA,0.15,50,NA,NA,0.28,interesting survey
+3o3rqdqpz9fr2zxj,356,B,NA,Choice / Knowledge,P,c,c,2,c,c,c,c,c,0,0,NA,NA,0.15,50,NA,NA,0.38,
+3o3rqdqpbhn22q7u,357,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.36,thanks awesome
+3o3rqdqpfjxag8oq,358,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,No comments.
+3o3rqdqpdle0dndh,359,B,NA,Random / Knowledge,P,c,3,c,c,c,c,c,c,0,0,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqpdiqrwmhe,360,B,NA,Random / Knowledge,H,c,c,c,3,c,c,1,c,0,0,NA,NA,0.3,100,NA,NA,0.45,This is pretty cool.
+3o3rqdqpk9shtddg,361,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,Thank you. 
+3o3rqdqpa1s82asf,362,B,NA,Choice / Knowledge,H,c,c,c,1,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.18,"It is an Interesting survey!  Since the Player 3 can get $0.90 upon $0.30 I sent to him/her, I expected more return than $0.18 from the Player 3.  I felt somewhat disappointed about it.  Thank you.  "
+3o3rqdqp0nb7dxov,363,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+3o3rqdqpyxr4l3pa,364,B,NA,Random / Anonymous,H,c,1,c,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.27,
+3o3rqdqptidyxgso,365,B,NA,Random / Knowledge,P,c,3,2,c,c,3,c,c,0,0,NA,NA,0.15,50,NA,NA,0.38,
+3o3rqdqpjbashunb,366,B,NA,Random / Knowledge,H,c,c,c,c,1,c,2,c,0,0,NA,NA,0.1,33.33,NA,NA,0.35,This was fun
+3o3rqdqp9na0zt6d,367,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqp7rlhlq3t,368,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.1,
+3o3rqdqp1ikantio,369,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,2,0,1,NA,NA,0.3,100,NA,NA,0.45,Yes!
+3o3rqdqptzcsjwxe,370,B,NA,Random / Anonymous,H,c,c,1,c,2,2,1,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+3o3rqdqplr2biw9a,371,B,NA,Random / Knowledge,P,c,c,c,c,c,c,2,c,0,1,NA,NA,0.1,33.33,NA,NA,0.2,
+3o3rqdqpomemct6s,372,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,Thank you. 
+3o3rqdqpbsxnmfbw,373,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.36,
+3o3rqdqpkgiknmax,374,B,NA,Random / Anonymous,H,c,c,c,1,c,c,c,c,0,0,NA,NA,0.2,66.67,NA,NA,0.4,
+3o3rqdqp3f3cnd9m,375,B,NA,Random / Knowledge,P,c,3,c,c,c,c,c,c,0,0,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqpnmc20h71,376,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqpypg5fk3f,377,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.4,
+3o3rqdqpxh9x21gn,378,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqp01ztd7vd,379,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.36,Thanks
+3o3rqdqp0u8sv1b8,380,B,NA,Random / Knowledge,H,c,c,1,c,1,c,c,c,0,0,NA,NA,0.1,33.33,NA,NA,0.2,
+3o3rqdqp7o8ugrc7,381,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqp4urc1bri,382,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+3o3rqdqp9j0sj6w1,383,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqpbbxw47b8,384,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+3o3rqdqpgy8ci050,385,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.4,
+3o3rqdqpmcnmcjbe,386,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.27,
+ephn5t6l6chavzno,387,B,NA,Random / Anonymous,P,2,1,c,1,2,c,2,3,0,0,NA,NA,0.1,33.33,NA,NA,0.35,
+ephn5t6lg017mt5y,388,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.2,66.67,NA,NA,0.4,
+ephn5t6lfdg1lqbt,389,B,NA,Random / Anonymous,P,3,c,1,c,c,2,c,c,0,0,NA,NA,0.19,63.33,NA,NA,0.22,
+ephn5t6lvnfky3ou,390,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+ephn5t6lc1r1cqcv,391,B,NA,Random / Anonymous,P,c,c,2,1,c,c,2,3,0,0,NA,NA,0,0,NA,NA,0.3,
+ephn5t6l7xwpshme,392,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+ephn5t6l9n4xhpec,393,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.1,33.33,NA,NA,0.2,Thanks for the bonus. 
+ephn5t6lctw59rzt,394,B,NA,Random / Anonymous,P,c,c,c,1,2,c,c,c,0,0,NA,NA,0,0,NA,NA,0.3,thank you
+ephn5t6lv3d2ljeo,395,B,NA,Random / Anonymous,P,c,c,c,1,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,None
+ephn5t6l7rxc4r7u,396,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+ephn5t6l5gt96x1l,397,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+ephn5t6lgpjiqjy6,398,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+ephn5t6lcoc7u2ya,399,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.38,
+ephn5t6l2ykf5n9f,400,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.1,33.33,NA,NA,0.2,
+ephn5t6ltomw3ew1,401,B,NA,Random / Anonymous,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+ephn5t6lzrczap03,402,B,NA,Random / Anonymous,H,c,c,c,c,2,c,2,c,0,0,NA,NA,0.12,40,NA,NA,0.18,
+ephn5t6legs849db,403,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,2,0,1,NA,NA,0.15,50,NA,NA,0.38,
+ephn5t6lklc1s6u5,404,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+ephn5t6l2u0hxqrn,405,B,NA,Random / Knowledge,P,c,c,c,c,1,c,c,c,0,0,NA,NA,0,0,NA,NA,0.3,
+ephn5t6lr3fxkies,406,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,"Fun, thanks!"
+ephn5t6l87xelct3,407,B,NA,Random / Knowledge,P,c,c,c,c,c,c,c,3,0,1,NA,NA,0.3,100,NA,NA,0.45,
+ephn5t6le1h5z7o7,408,B,NA,Random / Knowledge,P,c,3,c,c,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+ephn5t6ln2wglntz,409,B,NA,Random / Knowledge,H,2,c,2,3,c,3,c,c,0,0,NA,NA,0.15,50,NA,NA,0.24,
+ephn5t6l81icxt9l,410,B,NA,Random / Knowledge,H,2,c,2,c,3,2,2,3,0,0,NA,NA,0.14,46.67,NA,NA,0.37,
+ephn5t6lwkod2w69,411,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.15,50,NA,NA,0.38,
+ephn5t6lzx4veo0p,412,B,NA,Random / Knowledge,H,c,c,c,c,c,c,2,c,0,1,NA,NA,0.3,100,NA,NA,0,
+ephn5t6lhf9x7evg,413,B,NA,Random / Knowledge,H,c,c,c,1,3,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,interesting study
+ephn5t6l45gogyv8,414,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+ephn5t6lsznqobjp,415,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.05,16.67,NA,NA,0.33,
+ephn5t6lb9kmzjzg,416,B,NA,Random / Knowledge,H,c,c,1,c,c,c,2,c,0,0,NA,NA,0.1,33.33,NA,NA,0.35,
+ephn5t6lpiya4tvu,417,B,NA,Choice / Knowledge,P,c,c,c,1,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,
+ephn5t6lehy57xea,418,B,NA,Choice / Knowledge,P,c,c,c,2,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.36,
+ephn5t6l9kgikhof,419,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+ephn5t6lisioe5db,420,B,NA,Choice / Knowledge,P,c,1,c,c,c,c,c,c,0,0,NA,NA,0.1,33.33,NA,NA,0.35,
+ephn5t6lirach083,421,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+ephn5t6lb5tihdzo,422,B,NA,Choice / Knowledge,P,c,3,c,1,c,c,c,2,0,0,NA,NA,0,0,NA,NA,0.3,
+ephn5t6l22v5aqdm,423,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+ephn5t6ldm30zhqu,424,B,NA,Choice / Knowledge,P,c,3,c,c,c,c,c,c,0,0,NA,NA,0.15,50,NA,NA,0.38,
+ephn5t6l82y45mrv,425,B,NA,Choice / Knowledge,P,c,c,c,1,c,c,c,c,0,0,NA,NA,0,0,NA,NA,0.3,
+ephn5t6ldvfn9jrt,426,B,NA,Choice / Knowledge,H,c,3,c,1,3,c,c,c,0,0,NA,NA,0.1,33.33,NA,NA,0.35,
+ephn5t6lt2qfbzgt,427,B,NA,Choice / Knowledge,H,c,1,c,c,c,c,c,c,0,0,NA,NA,0.15,50,NA,NA,0.38,
+ephn5t6llw8sdvvw,428,B,NA,Choice / Knowledge,H,c,c,c,1,c,c,c,c,0,0,NA,NA,0.2,66.67,NA,NA,0.4,
+ephn5t6lzl7s906o,429,B,NA,Choice / Knowledge,H,c,c,c,1,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.9,"Fun game, thanks."
+ephn5t6lmkbee0m6,430,B,NA,Choice / Knowledge,H,c,3,c,c,c,c,2,c,0,0,NA,NA,0.15,50,NA,NA,0.38,
+ephn5t6l5m71he6u,431,B,NA,Choice / Knowledge,H,c,c,c,1,c,c,c,c,0,0,NA,NA,0.1,33.33,NA,NA,0.35,
+ephn5t6ls1ajrxor,432,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+0cj4nju6rofk391y,433,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+0cj4nju6ce4act4z,434,B,NA,Random / Anonymous,P,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,I lost trust in people. 
+0cj4nju6wukrqe48,435,B,NA,Random / Anonymous,P,c,c,c,c,c,3,c,c,0,1,NA,NA,0,0,NA,NA,0.3,
+0cj4nju64lzi8yoh,436,B,NA,Random / Knowledge,H,c,c,c,c,c,c,c,2,0,1,NA,NA,0.03,10,NA,NA,0.32,
+0cj4nju6xyl9yyvg,437,B,NA,Random / Knowledge,H,c,3,c,c,c,2,c,c,0,0,NA,NA,0.2,66.67,NA,NA,0.1,
+0cj4nju6290ehnoo,438,B,NA,Choice / Knowledge,P,c,c,c,c,c,2,1,c,0,1,NA,NA,0.3,100,NA,NA,0,
+0cj4nju66o5tvtiw,439,B,NA,Choice / Knowledge,P,c,3,c,c,1,c,1,c,0,0,NA,NA,0.25,83.33,NA,NA,0.27,None.
+0cj4nju6kzjd78tf,440,B,NA,Choice / Knowledge,P,c,c,c,c,c,c,2,c,0,1,NA,NA,0,0,NA,NA,0.3,The initial instructions could have been written clearer in some places.
+0cj4nju6jx85yx8v,441,B,NA,Choice / Knowledge,H,c,1,c,c,c,c,2,c,0,0,NA,NA,0.15,50,NA,NA,0.15,
+0cj4nju6immp02ac,442,B,NA,Choice / Knowledge,H,c,3,c,c,c,c,2,c,0,0,NA,NA,0.1,33.33,NA,NA,0.35,
+0cj4nju6u7gpros1,443,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.45,
+0cj4nju6hf2em7c5,444,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0,0,NA,NA,0.3,
+0cj4nju69ztspvg3,445,B,NA,Choice / Knowledge,H,c,3,1,c,1,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.45,Thanks
+0cj4nju6o48f0di6,446,B,NA,Choice / Knowledge,H,c,c,c,1,c,c,c,c,0,0,NA,NA,0.3,100,NA,NA,0.81,
+0cj4nju6ixhle7z4,447,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,3,0,1,NA,NA,0.3,100,NA,NA,0.45,
+0cj4nju62px6ng9w,448,B,NA,Choice / Knowledge,H,c,c,c,c,c,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0,
+ejxtrgbr6o97lgx5,449,B,NA,Choice / Knowledge,H,c,NA,NA,NA,NA,c,c,c,1,1,NA,NA,0.3,100,NA,NA,0.27,NA
