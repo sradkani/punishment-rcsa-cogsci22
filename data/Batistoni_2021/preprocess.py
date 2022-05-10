@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 def preprocess(data):
-    punish_data = data[data['role']=='TP']
+    punish_data = data[data['role']=='TP'].copy(deep=True)
     punish_data['punished'] = punish_data['tp_invest']>0
 
     """Finds the probability of punishment in different IVs and conditions"""
