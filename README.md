@@ -22,6 +22,12 @@ The flow of the simulation for each experiment goes as follows:
 - The simulated data for each experiment is saved in <code>model_data/paper/[paper_name]</code> folder. This folder contains a preprocessing file as well, that prepares the data suitable for plotting (used in <code>experimental_data_plots.ipynb</code>)
 
 ## Reference
+If you use this code in your work, please cite it as follows:
 ```
-???
+@inproceedings{radkani2022modeling,
+  title={Modeling punishment as a rational communicative social action},
+  author={Radkani, Setayesh and Tenenbaum, Josh and Saxe, Rebecca},
+  booktitle={Proceedings of the Annual Meeting of the Cognitive Science Society},
+  year={2022}
+}
 ```
